@@ -8,7 +8,7 @@ Subset multiple iconfont packages and generate CSS/SCSS.
 
 ## Features
 
-- Subset from multiple iconfont npm packages, including [FontAwesome Free fonts](https://github.com/FortAwesome/Font-Awesome), [Material Design Icons](https://materialdesignicons.com/), [Bootstrap Icons](https://icons.getbootstrap.com/) and [Google Material Icons](https://fonts.google.com/icons);
+- Subset from multiple iconfont npm packages, including [FontAwesome Free fonts](https://github.com/FortAwesome/Font-Awesome), [Material Design Icons](https://materialdesignicons.com/), [Bootstrap Icons](https://icons.getbootstrap.com/), [Google Material Icons](https://fonts.google.com/icons), and [Fluent UI / Fabric MDL2 Icons](https://developer.microsoft.com/en-us/fluentui);
 - Supported output font formats: `woff2`, `woff`, `eot`, `ttf`;
 - Auto generate font LICENSE files for font used;
 - Auto generate FontAwesome styled CSS/SCSS, which means the subset icons can be used like FontAwesome icons, under FontAwesome free license;
@@ -41,12 +41,28 @@ subsetIconfont([mdi, fa], './outputDir', { formats: ['ttf', 'woff2'] }).then(
 );
 ```
 
+For FabricMDL2 icons (Fluent UI):
+
+```js
+// npm install -D @fluentui/font-icons-mdl2
+
+import { subsetIconfont, FabricMdl2Provider } from 'subset-iconfont';
+
+const fabric = new FabricMdl2Provider(['ColumnOptions', 'EditStyle', 'Add', 'Delete']);
+
+subsetIconfont([fabric], './outputDir', { formats: ['ttf', 'woff2'] }).then(
+  (result) => {
+    console.log('Done!');
+  }
+);
+```
+
 ## Demo
 
 Run
 
 ```shell
-npm install --save-dev @fortawesome/fontawesome-free @mdi/font @mdi/svg bootstrap-icons material-icons @material-design-icons/svg
+npm install --save-dev @fortawesome/fontawesome-free @mdi/font @mdi/svg bootstrap-icons material-icons @material-design-icons/svg @fluentui/font-icons-mdl2
 npm run demo
 ```
 
@@ -80,6 +96,12 @@ The process runs on a list of `ProviderInstance`, or `ProviderConstructor` insta
   - Source: [Google Material Icons](https://fonts.google.com/icons) npm packages unofficially maintained @marella
   - License: [Apache License version 2.0](https://github.com/marella/material-icons/blob/main/LICENSE)
   - Required npm packages: `material-icons` and `@material-design-icons/svg`
+- `FabricMdl2Provider`
+  - Source: [Fluent UI / Fabric MDL2 Icons](https://developer.microsoft.com/en-us/fluentui) by Microsoft
+  - License: [Microsoft Fabric Assets License](https://aka.ms/fluentui-assets-license)
+  - Required npm package: `@fluentui/font-icons-mdl2`
+  - Note: FabricMDL2 icons are based on the Segoe MDL2 Assets font. The provider uses a pre-merged font file containing all 1744+ icons from the 18 separate WOFF files distributed in the npm package.
+  - styles: no styles (all icons use the same visual style)
 
 Note: For provider with styles properties, the program will extract all available styles of that icon.
 
