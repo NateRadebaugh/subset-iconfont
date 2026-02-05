@@ -50,6 +50,11 @@ export const BOOTSTRAP_ICON_CSS_PREFIX = 'bi';
 export const BOOTSTRAP_ICON_FONT_NAME = 'Bootstrap Icons';
 export const BOOTSTRAP_ICONS_FONT_FILE_NAME = 'bootstrap-icons';
 
+export const FABRIC_MDL2_PACKAGE_NAME = '@fluentui/font-icons-mdl2';
+export const FABRIC_MDL2_DEFAULT_CSS_PREFIX = 'ms-Icon';
+export const FABRIC_MDL2_DEFAULT_FONT_NAME = 'FabricMDL2Icons';
+export const FABRIC_MDL2_DEFAULT_FONT_FILE_NAME = 'fabric-mdl2-icons';
+
 export const DEFAULT_LOGGER_LEVEL = 'warn';
 
 export const DEFAULT_WRITE_OUT_FILES: WriteOutFiles = [

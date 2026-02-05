@@ -1,0 +1,6978 @@
+{
+  "PageLink": {
+    "unicode": "e302",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "CommentSolid": {
+    "unicode": "e30e",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "ChangeEntitlements": {
+    "unicode": "e310",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Installation": {
+    "unicode": "e311",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "WebAppBuilderModule": {
+    "unicode": "e313",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "WebAppBuilderFragment": {
+    "unicode": "e314",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "WebAppBuilderSlot": {
+    "unicode": "e315",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "BullseyeTargetEdit": {
+    "unicode": "e319",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "WebAppBuilderFragmentCreate": {
+    "unicode": "e31b",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "PageData": {
+    "unicode": "e31c",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "PageHeaderEdit": {
+    "unicode": "e31d",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "ProductList": {
+    "unicode": "e31e",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "UnpublishContent": {
+    "unicode": "e31f",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "DependencyAdd": {
+    "unicode": "e344",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "DependencyRemove": {
+    "unicode": "e345",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "EntitlementPolicy": {
+    "unicode": "e346",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "EntitlementRedemption": {
+    "unicode": "e347",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "SchoolDataSyncLogo": {
+    "unicode": "e34c",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "PinSolid12": {
+    "unicode": "e352",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "PinSolidOff12": {
+    "unicode": "e353",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "AddLink": {
+    "unicode": "e35e",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "SharepointAppIcon16": {
+    "unicode": "e365",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "DataflowsLink": {
+    "unicode": "e366",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "TimePicker": {
+    "unicode": "e367",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "UserWarning": {
+    "unicode": "e368",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "ComplianceAudit": {
+    "unicode": "e369",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "InternetSharing": {
+    "unicode": "e704",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Brightness": {
+    "unicode": "e706",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "MapPin": {
+    "unicode": "e707",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Airplane": {
+    "unicode": "e709",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Tablet": {
+    "unicode": "e70a",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "QuickNote": {
+    "unicode": "e70b",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Video": {
+    "unicode": "e714",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "People": {
+    "unicode": "e716",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Phone": {
+    "unicode": "e717",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Pin": {
+    "unicode": "e718",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Shop": {
+    "unicode": "e719",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Stop": {
+    "unicode": "e71a",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Link": {
+    "unicode": "e71b",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "AllApps": {
+    "unicode": "e71d",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Zoom": {
+    "unicode": "e71e",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "ZoomOut": {
+    "unicode": "e71f",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Microphone": {
+    "unicode": "e720",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Camera": {
+    "unicode": "e722",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Attach": {
+    "unicode": "e723",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Send": {
+    "unicode": "e724",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "FavoriteList": {
+    "unicode": "e728",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "PageSolid": {
+    "unicode": "e729",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Forward": {
+    "unicode": "e72a",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Back": {
+    "unicode": "e72b",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Refresh": {
+    "unicode": "e72c",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Lock": {
+    "unicode": "e72e",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "ReportHacked": {
+    "unicode": "e730",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "EMI": {
+    "unicode": "e731",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "MiniLink": {
+    "unicode": "e732",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Blocked": {
+    "unicode": "e733",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "ReadingMode": {
+    "unicode": "e736",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Favicon": {
+    "unicode": "e737",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Remove": {
+    "unicode": "e738",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Checkbox": {
+    "unicode": "e739",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "CheckboxComposite": {
+    "unicode": "e73a",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "CheckboxFill": {
+    "unicode": "e73b",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "CheckboxIndeterminate": {
+    "unicode": "e73c",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "CheckboxCompositeReversed": {
+    "unicode": "e73d",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "BackToWindow": {
+    "unicode": "e73f",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "FullScreen": {
+    "unicode": "e740",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Print": {
+    "unicode": "e749",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Up": {
+    "unicode": "e74a",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Down": {
+    "unicode": "e74b",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "OEM": {
+    "unicode": "e74c",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Save": {
+    "unicode": "e74e",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "ReturnKey": {
+    "unicode": "e751",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Cloud": {
+    "unicode": "e753",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Flashlight": {
+    "unicode": "e754",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "CommandPrompt": {
+    "unicode": "e756",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Sad": {
+    "unicode": "e757",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "RealEstate": {
+    "unicode": "e758",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "SIPMove": {
+    "unicode": "e759",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "EraseTool": {
+    "unicode": "e75c",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "GripperTool": {
+    "unicode": "e75e",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Dialpad": {
+    "unicode": "e75f",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "PageLeft": {
+    "unicode": "e760",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "PageRight": {
+    "unicode": "e761",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "MultiSelect": {
+    "unicode": "e762",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "KeyboardClassic": {
+    "unicode": "e765",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Play": {
+    "unicode": "e768",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Pause": {
+    "unicode": "e769",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "InkingTool": {
+    "unicode": "e76d",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Emoji2": {
+    "unicode": "e76e",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "GripperBarHorizontal": {
+    "unicode": "e76f",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "System": {
+    "unicode": "e770",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Personalize": {
+    "unicode": "e771",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "SearchAndApps": {
+    "unicode": "e773",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Globe": {
+    "unicode": "e774",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "EaseOfAccess": {
+    "unicode": "e776",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "ContactInfo": {
+    "unicode": "e779",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Unpin": {
+    "unicode": "e77a",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Contact": {
+    "unicode": "e77b",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Memo": {
+    "unicode": "e77c",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "IncomingCall": {
+    "unicode": "e77e",
+    "fontFile": "fonts/fabric-icons-0-467ee27f.woff"
+  },
+  "Paste": {
+    "unicode": "e77f",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "WindowsLogo": {
+    "unicode": "e782",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Error": {
+    "unicode": "e783",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "GripperBarVertical": {
+    "unicode": "e784",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Unlock": {
+    "unicode": "e785",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Slideshow": {
+    "unicode": "e786",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Trim": {
+    "unicode": "e78a",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "AutoEnhanceOn": {
+    "unicode": "e78d",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "AutoEnhanceOff": {
+    "unicode": "e78e",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Color": {
+    "unicode": "e790",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "SaveAs": {
+    "unicode": "e792",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Light": {
+    "unicode": "e793",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Filters": {
+    "unicode": "e795",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "AspectRatio": {
+    "unicode": "e799",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Contrast": {
+    "unicode": "e7a1",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Redo": {
+    "unicode": "e7a6",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Crop": {
+    "unicode": "e7a8",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "PhotoCollection": {
+    "unicode": "e7aa",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Album": {
+    "unicode": "e7ab",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Rotate": {
+    "unicode": "e7ad",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "PanoIndicator": {
+    "unicode": "e7b0",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Translate": {
+    "unicode": "e7b2",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "RedEye": {
+    "unicode": "e7b3",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "ViewOriginal": {
+    "unicode": "e7b4",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "ThumbnailView": {
+    "unicode": "e7b6",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Package": {
+    "unicode": "e7b8",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Telemarketer": {
+    "unicode": "e7b9",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Warning": {
+    "unicode": "e7ba",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Financial": {
+    "unicode": "e7bb",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Education": {
+    "unicode": "e7be",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "ShoppingCart": {
+    "unicode": "e7bf",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Train": {
+    "unicode": "e7c0",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Move": {
+    "unicode": "e7c2",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "TouchPointer": {
+    "unicode": "e7c9",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Merge": {
+    "unicode": "e7d5",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "TurnRight": {
+    "unicode": "e7db",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Ferry": {
+    "unicode": "e7e3",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Highlight": {
+    "unicode": "e7e6",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "PowerButton": {
+    "unicode": "e7e8",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Tab": {
+    "unicode": "e7e9",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Admin": {
+    "unicode": "e7ef",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "TVMonitor": {
+    "unicode": "e7f4",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Speakers": {
+    "unicode": "e7f5",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Game": {
+    "unicode": "e7fc",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "HorizontalTabKey": {
+    "unicode": "e7fd",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "UnstackSelected": {
+    "unicode": "e7fe",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "StackIndicator": {
+    "unicode": "e7ff",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Nav2DMapView": {
+    "unicode": "e800",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "StreetsideSplitMinimize": {
+    "unicode": "e802",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Car": {
+    "unicode": "e804",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Bus": {
+    "unicode": "e806",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "EatDrink": {
+    "unicode": "e807",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "SeeDo": {
+    "unicode": "e808",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "LocationCircle": {
+    "unicode": "e80e",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Home": {
+    "unicode": "e80f",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "SwitcherStartEnd": {
+    "unicode": "e810",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "ParkingLocation": {
+    "unicode": "e811",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "IncidentTriangle": {
+    "unicode": "e814",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Touch": {
+    "unicode": "e815",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "MapDirections": {
+    "unicode": "e816",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "CaretHollow": {
+    "unicode": "e817",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "CaretSolid": {
+    "unicode": "e818",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "History": {
+    "unicode": "e81c",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Location": {
+    "unicode": "e81d",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "MapLayers": {
+    "unicode": "e81e",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "SearchNearby": {
+    "unicode": "e820",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Work": {
+    "unicode": "e821",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Recent": {
+    "unicode": "e823",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Hotel": {
+    "unicode": "e824",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Bank": {
+    "unicode": "e825",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "LocationDot": {
+    "unicode": "e827",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Dictionary": {
+    "unicode": "e82d",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "ChromeBack": {
+    "unicode": "e830",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "FolderOpen": {
+    "unicode": "e838",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "PinnedFill": {
+    "unicode": "e842",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "RevToggleKey": {
+    "unicode": "e845",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "USB": {
+    "unicode": "e88e",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Previous": {
+    "unicode": "e892",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Next": {
+    "unicode": "e893",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Sync": {
+    "unicode": "e895",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Help": {
+    "unicode": "e897",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Emoji": {
+    "unicode": "e899",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "MailForward": {
+    "unicode": "e89c",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "ClosePane": {
+    "unicode": "e89f",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "OpenPane": {
+    "unicode": "e8a0",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "PreviewLink": {
+    "unicode": "e8a1",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "ZoomIn": {
+    "unicode": "e8a3",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Bookmarks": {
+    "unicode": "e8a4",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Document": {
+    "unicode": "e8a5",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "ProtectedDocument": {
+    "unicode": "e8a6",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "OpenInNewWindow": {
+    "unicode": "e8a7",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "MailFill": {
+    "unicode": "e8a8",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "ViewAll": {
+    "unicode": "e8a9",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Switch": {
+    "unicode": "e8ab",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Rename": {
+    "unicode": "e8ac",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Go": {
+    "unicode": "e8ad",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Remote": {
+    "unicode": "e8af",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "SelectAll": {
+    "unicode": "e8b3",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Orientation": {
+    "unicode": "e8b4",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Import": {
+    "unicode": "e8b5",
+    "fontFile": "fonts/fabric-icons-1-4d521695.woff"
+  },
+  "Picture": {
+    "unicode": "e8b9",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "ChromeClose": {
+    "unicode": "e8bb",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "ShowResults": {
+    "unicode": "e8bc",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Message": {
+    "unicode": "e8bd",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "CalendarDay": {
+    "unicode": "e8bf",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "CalendarWeek": {
+    "unicode": "e8c0",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "MailReplyAll": {
+    "unicode": "e8c2",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Read": {
+    "unicode": "e8c3",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Cut": {
+    "unicode": "e8c6",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "PaymentCard": {
+    "unicode": "e8c7",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Copy": {
+    "unicode": "e8c8",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Important": {
+    "unicode": "e8c9",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "MailReply": {
+    "unicode": "e8ca",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "GotoToday": {
+    "unicode": "e8d1",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Font": {
+    "unicode": "e8d2",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "FontColor": {
+    "unicode": "e8d3",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "FolderFill": {
+    "unicode": "e8d5",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Permissions": {
+    "unicode": "e8d7",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "DisableUpdates": {
+    "unicode": "e8d8",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Unfavorite": {
+    "unicode": "e8d9",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Italic": {
+    "unicode": "e8db",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Underline": {
+    "unicode": "e8dc",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Bold": {
+    "unicode": "e8dd",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "MoveToFolder": {
+    "unicode": "e8de",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Dislike": {
+    "unicode": "e8e0",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Like": {
+    "unicode": "e8e1",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "AlignCenter": {
+    "unicode": "e8e3",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "OpenFile": {
+    "unicode": "e8e5",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "ClearSelection": {
+    "unicode": "e8e6",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "FontDecrease": {
+    "unicode": "e8e7",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "FontIncrease": {
+    "unicode": "e8e8",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "FontSize": {
+    "unicode": "e8e9",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "CellPhone": {
+    "unicode": "e8ea",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "RepeatOne": {
+    "unicode": "e8ed",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "RepeatAll": {
+    "unicode": "e8ee",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Calculator": {
+    "unicode": "e8ef",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Library": {
+    "unicode": "e8f1",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "PostUpdate": {
+    "unicode": "e8f3",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "NewFolder": {
+    "unicode": "e8f4",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "CalendarReply": {
+    "unicode": "e8f5",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "UnsyncFolder": {
+    "unicode": "e8f6",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "SyncFolder": {
+    "unicode": "e8f7",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "BlockContact": {
+    "unicode": "e8f8",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Accept": {
+    "unicode": "e8fb",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "BulletedList": {
+    "unicode": "e8fd",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Preview": {
+    "unicode": "e8ff",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "News": {
+    "unicode": "e900",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Chat": {
+    "unicode": "e901",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Group": {
+    "unicode": "e902",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "World": {
+    "unicode": "e909",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Comment": {
+    "unicode": "e90a",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "DockLeft": {
+    "unicode": "e90c",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "DockRight": {
+    "unicode": "e90d",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Repair": {
+    "unicode": "e90f",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Accounts": {
+    "unicode": "e910",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Street": {
+    "unicode": "e913",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "RadioBullet": {
+    "unicode": "e915",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Stopwatch": {
+    "unicode": "e916",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Clock": {
+    "unicode": "e917",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "WorldClock": {
+    "unicode": "e918",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "AlarmClock": {
+    "unicode": "e919",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Photo": {
+    "unicode": "e91b",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "ActionCenter": {
+    "unicode": "e91c",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Hospital": {
+    "unicode": "e91d",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Timer": {
+    "unicode": "e91e",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "FullCircleMask": {
+    "unicode": "e91f",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "LocationFill": {
+    "unicode": "e920",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "ChromeMinimize": {
+    "unicode": "e921",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "ChromeRestore": {
+    "unicode": "e923",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Annotation": {
+    "unicode": "e924",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Fingerprint": {
+    "unicode": "e928",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Handwriting": {
+    "unicode": "e929",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "ChromeFullScreen": {
+    "unicode": "e92d",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Completed": {
+    "unicode": "e930",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Label": {
+    "unicode": "e932",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "FlickDown": {
+    "unicode": "e935",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "FlickUp": {
+    "unicode": "e936",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "FlickLeft": {
+    "unicode": "e937",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "FlickRight": {
+    "unicode": "e938",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "MiniExpand": {
+    "unicode": "e93a",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "MiniContract": {
+    "unicode": "e93b",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Streaming": {
+    "unicode": "e93e",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "MusicInCollection": {
+    "unicode": "e940",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "OneDriveLogo": {
+    "unicode": "e941",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "CompassNW": {
+    "unicode": "e942",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Code": {
+    "unicode": "e943",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "LightningBolt": {
+    "unicode": "e945",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "CalculatorMultiply": {
+    "unicode": "e947",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "CalculatorAddition": {
+    "unicode": "e948",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "CalculatorSubtract": {
+    "unicode": "e949",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "CalculatorPercentage": {
+    "unicode": "e94c",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "CalculatorEqualTo": {
+    "unicode": "e94e",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "PrintfaxPrinterFile": {
+    "unicode": "e956",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "StorageOptical": {
+    "unicode": "e958",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Communications": {
+    "unicode": "e95a",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Headset": {
+    "unicode": "e95b",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Health": {
+    "unicode": "e95e",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "Webcam2": {
+    "unicode": "e960",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "FrontCamera": {
+    "unicode": "e96b",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "ChevronUpSmall": {
+    "unicode": "e96d",
+    "fontFile": "fonts/fabric-icons-2-63c99abf.woff"
+  },
+  "ChevronDownSmall": {
+    "unicode": "e96e",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "ChevronLeftSmall": {
+    "unicode": "e96f",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "ChevronRightSmall": {
+    "unicode": "e970",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "ChevronUpMed": {
+    "unicode": "e971",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "ChevronDownMed": {
+    "unicode": "e972",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "ChevronLeftMed": {
+    "unicode": "e973",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "ChevronRightMed": {
+    "unicode": "e974",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Devices2": {
+    "unicode": "e975",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "PC1": {
+    "unicode": "e977",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "PresenceChickletVideo": {
+    "unicode": "e979",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Reply": {
+    "unicode": "e97a",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "HalfAlpha": {
+    "unicode": "e97e",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "ConstructionCone": {
+    "unicode": "e98f",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "DoubleChevronLeftMed": {
+    "unicode": "e991",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Volume0": {
+    "unicode": "e992",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Volume1": {
+    "unicode": "e993",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Volume2": {
+    "unicode": "e994",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Volume3": {
+    "unicode": "e995",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Chart": {
+    "unicode": "e999",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Robot": {
+    "unicode": "e99a",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Manufacturing": {
+    "unicode": "e99c",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "LockSolid": {
+    "unicode": "e9a2",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "FitPage": {
+    "unicode": "e9a6",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "FitWidth": {
+    "unicode": "e9a7",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "BidiLtr": {
+    "unicode": "e9aa",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "BidiRtl": {
+    "unicode": "e9ab",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "RightDoubleQuote": {
+    "unicode": "e9b1",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Sunny": {
+    "unicode": "e9bd",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "CloudWeather": {
+    "unicode": "e9be",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Cloudy": {
+    "unicode": "e9bf",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "PartlyCloudyDay": {
+    "unicode": "e9c0",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "PartlyCloudyNight": {
+    "unicode": "e9c1",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "ClearNight": {
+    "unicode": "e9c2",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "RainShowersDay": {
+    "unicode": "e9c3",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Rain": {
+    "unicode": "e9c4",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Thunderstorms": {
+    "unicode": "e9c6",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "RainSnow": {
+    "unicode": "e9c7",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Snow": {
+    "unicode": "e9c8",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "BlowingSnow": {
+    "unicode": "e9c9",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Frigid": {
+    "unicode": "e9ca",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Fog": {
+    "unicode": "e9cb",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Squalls": {
+    "unicode": "e9cc",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Duststorm": {
+    "unicode": "e9cd",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Unknown": {
+    "unicode": "e9ce",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Precipitation": {
+    "unicode": "e9cf",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Ribbon": {
+    "unicode": "e9d1",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "AreaChart": {
+    "unicode": "e9d2",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Assign": {
+    "unicode": "e9d3",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "FlowChart": {
+    "unicode": "e9d4",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "CheckList": {
+    "unicode": "e9d5",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Diagnostic": {
+    "unicode": "e9d9",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Generate": {
+    "unicode": "e9da",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "LineChart": {
+    "unicode": "e9e6",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Equalizer": {
+    "unicode": "e9e9",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "BarChartHorizontal": {
+    "unicode": "e9eb",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "BarChartVertical": {
+    "unicode": "e9ec",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Freezing": {
+    "unicode": "e9ef",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "FunnelChart": {
+    "unicode": "e9f1",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Processing": {
+    "unicode": "e9f5",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Quantity": {
+    "unicode": "e9f8",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "ReportDocument": {
+    "unicode": "e9f9",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "StackColumnChart": {
+    "unicode": "e9fc",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "SnowShowerDay": {
+    "unicode": "e9fd",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "HailDay": {
+    "unicode": "ea00",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "WorkFlow": {
+    "unicode": "ea01",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "HourGlass": {
+    "unicode": "ea03",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "StoreLogoMed20": {
+    "unicode": "ea04",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "TimeSheet": {
+    "unicode": "ea05",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "TriangleSolid": {
+    "unicode": "ea08",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "UpgradeAnalysis": {
+    "unicode": "ea0b",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "VideoSolid": {
+    "unicode": "ea0c",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "RainShowersNight": {
+    "unicode": "ea0f",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "SnowShowerNight": {
+    "unicode": "ea11",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Teamwork": {
+    "unicode": "ea12",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "HailNight": {
+    "unicode": "ea13",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "PeopleAdd": {
+    "unicode": "ea15",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Glasses": {
+    "unicode": "ea16",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "DateTime2": {
+    "unicode": "ea17",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Shield": {
+    "unicode": "ea18",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Header1": {
+    "unicode": "ea19",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "PageAdd": {
+    "unicode": "ea1a",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "NumberedList": {
+    "unicode": "ea1c",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "PowerBILogo": {
+    "unicode": "ea1e",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Info2": {
+    "unicode": "ea1f",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "MusicInCollectionFill": {
+    "unicode": "ea36",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Asterisk": {
+    "unicode": "ea38",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "ErrorBadge": {
+    "unicode": "ea39",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "CircleFill": {
+    "unicode": "ea3b",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "Record2": {
+    "unicode": "ea3f",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "AllAppsMirrored": {
+    "unicode": "ea40",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "BookmarksMirrored": {
+    "unicode": "ea41",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "BulletedListMirrored": {
+    "unicode": "ea42",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "CaretHollowMirrored": {
+    "unicode": "ea45",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "CaretSolidMirrored": {
+    "unicode": "ea46",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "ChromeBackMirrored": {
+    "unicode": "ea47",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "ClearSelectionMirrored": {
+    "unicode": "ea48",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "ClosePaneMirrored": {
+    "unicode": "ea49",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "DockLeftMirrored": {
+    "unicode": "ea4c",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "DoubleChevronLeftMedMirrored": {
+    "unicode": "ea4d",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "GoMirrored": {
+    "unicode": "ea4f",
+    "fontFile": "fonts/fabric-icons-3-089e217a.woff"
+  },
+  "HelpMirrored": {
+    "unicode": "ea51",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "ImportMirrored": {
+    "unicode": "ea52",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "ImportAllMirrored": {
+    "unicode": "ea53",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "ListMirrored": {
+    "unicode": "ea55",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "MailForwardMirrored": {
+    "unicode": "ea56",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "MailReplyMirrored": {
+    "unicode": "ea57",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "MailReplyAllMirrored": {
+    "unicode": "ea58",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "MiniContractMirrored": {
+    "unicode": "ea59",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "MiniExpandMirrored": {
+    "unicode": "ea5a",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "OpenPaneMirrored": {
+    "unicode": "ea5b",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "ParkingLocationMirrored": {
+    "unicode": "ea5e",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "SendMirrored": {
+    "unicode": "ea63",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "ShowResultsMirrored": {
+    "unicode": "ea65",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "ThumbnailViewMirrored": {
+    "unicode": "ea67",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Media": {
+    "unicode": "ea69",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Devices3": {
+    "unicode": "ea6c",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Focus": {
+    "unicode": "ea6f",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "VideoLightOff": {
+    "unicode": "ea74",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Lightbulb": {
+    "unicode": "ea80",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "StatusTriangle": {
+    "unicode": "ea82",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "VolumeDisabled": {
+    "unicode": "ea85",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Puzzle": {
+    "unicode": "ea86",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "EmojiNeutral": {
+    "unicode": "ea87",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "EmojiDisappointed": {
+    "unicode": "ea88",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "HomeSolid": {
+    "unicode": "ea8a",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Ringer": {
+    "unicode": "ea8f",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "PDF": {
+    "unicode": "ea90",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "HeartBroken": {
+    "unicode": "ea92",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "StoreLogo16": {
+    "unicode": "ea96",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "MultiSelectMirrored": {
+    "unicode": "ea98",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Broom": {
+    "unicode": "ea99",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "AddToShoppingList": {
+    "unicode": "ea9a",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Cocktails": {
+    "unicode": "ea9d",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Wines": {
+    "unicode": "eabf",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Articles": {
+    "unicode": "eac1",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Cycling": {
+    "unicode": "eac7",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "DietPlanNotebook": {
+    "unicode": "eac8",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Pill": {
+    "unicode": "eacb",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "ExerciseTracker": {
+    "unicode": "eacc",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "HandsFree": {
+    "unicode": "ead0",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Medical": {
+    "unicode": "ead4",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Running": {
+    "unicode": "eada",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Weights": {
+    "unicode": "eadb",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Trackers": {
+    "unicode": "eadf",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "AddNotes": {
+    "unicode": "eae3",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "AllCurrency": {
+    "unicode": "eae4",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "BarChart4": {
+    "unicode": "eae7",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "CirclePlus": {
+    "unicode": "eaee",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Coffee": {
+    "unicode": "eaef",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Cotton": {
+    "unicode": "eaf3",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Market": {
+    "unicode": "eafc",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Money": {
+    "unicode": "eafd",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "PieDouble": {
+    "unicode": "eb04",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "PieSingle": {
+    "unicode": "eb05",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "RemoveFilter": {
+    "unicode": "eb08",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Savings": {
+    "unicode": "eb0b",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Sell": {
+    "unicode": "eb0c",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "StockDown": {
+    "unicode": "eb0f",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "StockUp": {
+    "unicode": "eb11",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Lamp": {
+    "unicode": "eb19",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Source": {
+    "unicode": "eb1b",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "MSNVideos": {
+    "unicode": "eb1c",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Cricket": {
+    "unicode": "eb1e",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Golf": {
+    "unicode": "eb1f",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Baseball": {
+    "unicode": "eb20",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Soccer": {
+    "unicode": "eb21",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "MoreSports": {
+    "unicode": "eb22",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "AutoRacing": {
+    "unicode": "eb24",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "CollegeHoops": {
+    "unicode": "eb25",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "CollegeFootball": {
+    "unicode": "eb26",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "ProFootball": {
+    "unicode": "eb27",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "ProHockey": {
+    "unicode": "eb28",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Rugby": {
+    "unicode": "eb2d",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "SubstitutionsIn": {
+    "unicode": "eb31",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Tennis": {
+    "unicode": "eb33",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Arrivals": {
+    "unicode": "eb34",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Design": {
+    "unicode": "eb3c",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Website": {
+    "unicode": "eb41",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Drop": {
+    "unicode": "eb42",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "HistoricalWeather": {
+    "unicode": "eb43",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "SkiResorts": {
+    "unicode": "eb45",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Snowflake": {
+    "unicode": "eb46",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "BusSolid": {
+    "unicode": "eb47",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "FerrySolid": {
+    "unicode": "eb48",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "AirplaneSolid": {
+    "unicode": "eb4c",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "TrainSolid": {
+    "unicode": "eb4d",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Ticket": {
+    "unicode": "eb54",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "WifiWarning4": {
+    "unicode": "eb63",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Devices4": {
+    "unicode": "eb66",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "AzureLogo": {
+    "unicode": "eb6a",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "BingLogo": {
+    "unicode": "eb6b",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "MSNLogo": {
+    "unicode": "eb6c",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "OutlookLogoInverse": {
+    "unicode": "eb6d",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "OfficeLogo": {
+    "unicode": "eb6e",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "SkypeLogo": {
+    "unicode": "eb6f",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Door": {
+    "unicode": "eb75",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "EditMirrored": {
+    "unicode": "eb7e",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "GiftCard": {
+    "unicode": "eb8e",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "DoubleBookmark": {
+    "unicode": "eb8f",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "StatusErrorFull": {
+    "unicode": "eb90",
+    "fontFile": "fonts/fabric-icons-4-a656cc0a.woff"
+  },
+  "Certificate": {
+    "unicode": "eb95",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "FastForward": {
+    "unicode": "eb9d",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "Rewind": {
+    "unicode": "eb9e",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "Photo2": {
+    "unicode": "eb9f",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "OpenSource": {
+    "unicode": "ebc2",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "Movers": {
+    "unicode": "ebcd",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "CloudDownload": {
+    "unicode": "ebd3",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "Family": {
+    "unicode": "ebda",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "WindDirection": {
+    "unicode": "ebe6",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "Bug": {
+    "unicode": "ebe8",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "SiteScan": {
+    "unicode": "ebec",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "BrowserScreenShot": {
+    "unicode": "ebed",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "F12DevTools": {
+    "unicode": "ebee",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "CSS": {
+    "unicode": "ebef",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "JS": {
+    "unicode": "ebf0",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "DeliveryTruck": {
+    "unicode": "ebf4",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "ReminderPerson": {
+    "unicode": "ebf7",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "ReminderGroup": {
+    "unicode": "ebf8",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "ReminderTime": {
+    "unicode": "ebf9",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "TabletMode": {
+    "unicode": "ebfc",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "Umbrella": {
+    "unicode": "ec04",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "NetworkTower": {
+    "unicode": "ec05",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "CityNext": {
+    "unicode": "ec06",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "CityNext2": {
+    "unicode": "ec07",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "Section": {
+    "unicode": "ec0c",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "OneNoteLogoInverse": {
+    "unicode": "ec0d",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "ToggleFilled": {
+    "unicode": "ec11",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "ToggleBorder": {
+    "unicode": "ec12",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "SliderThumb": {
+    "unicode": "ec13",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "ToggleThumb": {
+    "unicode": "ec14",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "Documentation": {
+    "unicode": "ec17",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "Badge": {
+    "unicode": "ec1b",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "Giftbox": {
+    "unicode": "ec1f",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "VisualStudioLogo": {
+    "unicode": "ec22",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "HomeGroup": {
+    "unicode": "ec26",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "ExcelLogoInverse": {
+    "unicode": "ec28",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "WordLogoInverse": {
+    "unicode": "ec29",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "PowerPointLogoInverse": {
+    "unicode": "ec2a",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "Cafe": {
+    "unicode": "ec32",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "SpeedHigh": {
+    "unicode": "ec4a",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "Commitments": {
+    "unicode": "ec4d",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "ThisPC": {
+    "unicode": "ec4e",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "MusicNote": {
+    "unicode": "ec4f",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "MicOff": {
+    "unicode": "ec54",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "PlaybackRate1x": {
+    "unicode": "ec57",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "EdgeLogo": {
+    "unicode": "ec60",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "CompletedSolid": {
+    "unicode": "ec61",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "AlbumRemove": {
+    "unicode": "ec62",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "MessageFill": {
+    "unicode": "ec70",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "TabletSelected": {
+    "unicode": "ec74",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "MobileSelected": {
+    "unicode": "ec75",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "LaptopSelected": {
+    "unicode": "ec76",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "TVMonitorSelected": {
+    "unicode": "ec77",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "DeveloperTools": {
+    "unicode": "ec7a",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "Shapes": {
+    "unicode": "ec7c",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "InsertTextBox": {
+    "unicode": "ec7d",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "LowerBrightness": {
+    "unicode": "ec8a",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "WebComponents": {
+    "unicode": "ec8b",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "OfflineStorage": {
+    "unicode": "ec8c",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "DOM": {
+    "unicode": "ec8d",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "CloudUpload": {
+    "unicode": "ec8e",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "ScrollUpDown": {
+    "unicode": "ec8f",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "DateTime": {
+    "unicode": "ec92",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "Event": {
+    "unicode": "eca3",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "Cake": {
+    "unicode": "eca4",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "Org": {
+    "unicode": "eca6",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "PartyLeader": {
+    "unicode": "eca7",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "DRM": {
+    "unicode": "eca8",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "CloudAdd": {
+    "unicode": "eca9",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "AppIconDefault": {
+    "unicode": "ecaa",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "Photo2Add": {
+    "unicode": "ecab",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "Photo2Remove": {
+    "unicode": "ecac",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "Calories": {
+    "unicode": "ecad",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "POI": {
+    "unicode": "ecaf",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "AddTo": {
+    "unicode": "ecc8",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "RadioBtnOff": {
+    "unicode": "ecca",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "RadioBtnOn": {
+    "unicode": "eccb",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "ExploreContent": {
+    "unicode": "eccd",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "Product": {
+    "unicode": "ecdc",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "ProgressLoopInner": {
+    "unicode": "ecde",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "ProgressLoopOuter": {
+    "unicode": "ecdf",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "Blocked2": {
+    "unicode": "ece4",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "FangBody": {
+    "unicode": "eceb",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "Toolbox": {
+    "unicode": "eced",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "PageHeader": {
+    "unicode": "ecee",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "ChatInviteFriend": {
+    "unicode": "ecfe",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "Brush": {
+    "unicode": "ecff",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "Shirt": {
+    "unicode": "ed00",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "Crown": {
+    "unicode": "ed01",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "Diamond": {
+    "unicode": "ed02",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "ScaleUp": {
+    "unicode": "ed09",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "QRCode": {
+    "unicode": "ed14",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "Feedback": {
+    "unicode": "ed15",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "SharepointLogoInverse": {
+    "unicode": "ed18",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "YammerLogo": {
+    "unicode": "ed19",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "Hide": {
+    "unicode": "ed1a",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "Uneditable": {
+    "unicode": "ed1d",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "ReturnToSession": {
+    "unicode": "ed24",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "OpenFolderHorizontal": {
+    "unicode": "ed25",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "CalendarMirrored": {
+    "unicode": "ed28",
+    "fontFile": "fonts/fabric-icons-5-f95ba260.woff"
+  },
+  "SwayLogoInverse": {
+    "unicode": "ed29",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "OutOfOffice": {
+    "unicode": "ed34",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "Trophy": {
+    "unicode": "ed3f",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "ReopenPages": {
+    "unicode": "ed50",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "EmojiTabSymbols": {
+    "unicode": "ed58",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "AADLogo": {
+    "unicode": "ed68",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "AccessLogo": {
+    "unicode": "ed69",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "AdminALogoInverse32": {
+    "unicode": "ed6a",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "AdminCLogoInverse32": {
+    "unicode": "ed6b",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "AdminDLogoInverse32": {
+    "unicode": "ed6c",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "AdminELogoInverse32": {
+    "unicode": "ed6d",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "AdminLLogoInverse32": {
+    "unicode": "ed6e",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "AdminMLogoInverse32": {
+    "unicode": "ed6f",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "AdminOLogoInverse32": {
+    "unicode": "ed70",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "AdminPLogoInverse32": {
+    "unicode": "ed71",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "AdminSLogoInverse32": {
+    "unicode": "ed72",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "AdminYLogoInverse32": {
+    "unicode": "ed73",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "DelveLogoInverse": {
+    "unicode": "ed76",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "ExchangeLogoInverse": {
+    "unicode": "ed78",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "LyncLogo": {
+    "unicode": "ed79",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "OfficeVideoLogoInverse": {
+    "unicode": "ed7a",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "SocialListeningLogo": {
+    "unicode": "ed7c",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "VisioLogoInverse": {
+    "unicode": "ed7d",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "Balloons": {
+    "unicode": "ed7e",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "Cat": {
+    "unicode": "ed7f",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "MailAlert": {
+    "unicode": "ed80",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "MailCheck": {
+    "unicode": "ed81",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "MailLowImportance": {
+    "unicode": "ed82",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "MailPause": {
+    "unicode": "ed83",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "MailRepeat": {
+    "unicode": "ed84",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "SecurityGroup": {
+    "unicode": "ed85",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "Table": {
+    "unicode": "ed86",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "VoicemailForward": {
+    "unicode": "ed87",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "VoicemailReply": {
+    "unicode": "ed88",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "Waffle": {
+    "unicode": "ed89",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "RemoveEvent": {
+    "unicode": "ed8a",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "EventInfo": {
+    "unicode": "ed8b",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "ForwardEvent": {
+    "unicode": "ed8c",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "WipePhone": {
+    "unicode": "ed8d",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "AddOnlineMeeting": {
+    "unicode": "ed8e",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "JoinOnlineMeeting": {
+    "unicode": "ed8f",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "RemoveLink": {
+    "unicode": "ed90",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "PeopleBlock": {
+    "unicode": "ed91",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "PeopleRepeat": {
+    "unicode": "ed92",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "PeopleAlert": {
+    "unicode": "ed93",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "PeoplePause": {
+    "unicode": "ed94",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "TransferCall": {
+    "unicode": "ed95",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "AddPhone": {
+    "unicode": "ed96",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "UnknownCall": {
+    "unicode": "ed97",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "NoteReply": {
+    "unicode": "ed98",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "NoteForward": {
+    "unicode": "ed99",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "NotePinned": {
+    "unicode": "ed9a",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "RemoveOccurrence": {
+    "unicode": "ed9b",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "Timeline": {
+    "unicode": "ed9c",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "EditNote": {
+    "unicode": "ed9d",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "CircleHalfFull": {
+    "unicode": "ed9e",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "Room": {
+    "unicode": "ed9f",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "Unsubscribe": {
+    "unicode": "eda0",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "Subscribe": {
+    "unicode": "eda1",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "HardDrive": {
+    "unicode": "eda2",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "RecurringTask": {
+    "unicode": "edb2",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "TaskManager": {
+    "unicode": "edb7",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "TaskManagerMirrored": {
+    "unicode": "edb8",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "Combine": {
+    "unicode": "edbb",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "Split": {
+    "unicode": "edbc",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "DoubleChevronUp": {
+    "unicode": "edbd",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "DoubleChevronLeft": {
+    "unicode": "edbe",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "DoubleChevronRight": {
+    "unicode": "edbf",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "TextBox": {
+    "unicode": "edc2",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "TextField": {
+    "unicode": "edc3",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "NumberField": {
+    "unicode": "edc4",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "Dropdown": {
+    "unicode": "edc5",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "PenWorkspace": {
+    "unicode": "edc6",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "BookingsLogo": {
+    "unicode": "edc7",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "ClassNotebookLogoInverse": {
+    "unicode": "edc8",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "DelveAnalyticsLogo": {
+    "unicode": "edca",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "DocsLogoInverse": {
+    "unicode": "edcb",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "Dynamics365Logo": {
+    "unicode": "edcc",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "DynamicSMBLogo": {
+    "unicode": "edcd",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "OfficeAssistantLogo": {
+    "unicode": "edce",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "OfficeStoreLogo": {
+    "unicode": "edcf",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "OneNoteEduLogoInverse": {
+    "unicode": "edd0",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "PlannerLogo": {
+    "unicode": "edd1",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "PowerApps": {
+    "unicode": "edd2",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "Suitcase": {
+    "unicode": "edd3",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "ProjectLogoInverse": {
+    "unicode": "edd4",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "CaretLeft8": {
+    "unicode": "edd5",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "CaretRight8": {
+    "unicode": "edd6",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "CaretUp8": {
+    "unicode": "edd7",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "CaretDown8": {
+    "unicode": "edd8",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "CaretLeftSolid8": {
+    "unicode": "edd9",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "CaretRightSolid8": {
+    "unicode": "edda",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "CaretUpSolid8": {
+    "unicode": "eddb",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "CaretDownSolid8": {
+    "unicode": "eddc",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "ClearFormatting": {
+    "unicode": "eddd",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "Superscript": {
+    "unicode": "edde",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "Subscript": {
+    "unicode": "eddf",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "Strikethrough": {
+    "unicode": "ede0",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "Export": {
+    "unicode": "ede1",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "ExportMirrored": {
+    "unicode": "ede2",
+    "fontFile": "fonts/fabric-icons-6-ef6fd590.woff"
+  },
+  "SingleBookmark": {
+    "unicode": "edff",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "SingleBookmarkSolid": {
+    "unicode": "ee00",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "DoubleChevronDown": {
+    "unicode": "ee04",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "FollowUser": {
+    "unicode": "ee05",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "ReplyAll": {
+    "unicode": "ee0a",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "WorkforceManagement": {
+    "unicode": "ee0f",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "RecruitmentManagement": {
+    "unicode": "ee12",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "Questionnaire": {
+    "unicode": "ee19",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "ManagerSelfService": {
+    "unicode": "ee23",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "ProductionFloorManagement": {
+    "unicode": "ee29",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "ProductRelease": {
+    "unicode": "ee2e",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "ProductVariant": {
+    "unicode": "ee30",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "ReplyMirrored": {
+    "unicode": "ee35",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "ReplyAllMirrored": {
+    "unicode": "ee36",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "Medal": {
+    "unicode": "ee38",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "AddGroup": {
+    "unicode": "ee3d",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "QuestionnaireMirrored": {
+    "unicode": "ee4b",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "CloudImportExport": {
+    "unicode": "ee55",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "TemporaryUser": {
+    "unicode": "ee58",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "CaretSolid16": {
+    "unicode": "ee62",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "GroupedDescending": {
+    "unicode": "ee66",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "GroupedAscending": {
+    "unicode": "ee67",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "AwayStatus": {
+    "unicode": "ee6a",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "MyMoviesTV": {
+    "unicode": "ee6c",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "GenericScan": {
+    "unicode": "ee6f",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "AustralianRules": {
+    "unicode": "ee70",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "WifiEthernet": {
+    "unicode": "ee77",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "TrackersMirrored": {
+    "unicode": "ee92",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "DateTimeMirrored": {
+    "unicode": "ee93",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "StopSolid": {
+    "unicode": "ee95",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "DoubleChevronUp12": {
+    "unicode": "ee96",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "DoubleChevronDown12": {
+    "unicode": "ee97",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "DoubleChevronLeft12": {
+    "unicode": "ee98",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "DoubleChevronRight12": {
+    "unicode": "ee99",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "CalendarAgenda": {
+    "unicode": "ee9a",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "ConnectVirtualMachine": {
+    "unicode": "ee9d",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "AddEvent": {
+    "unicode": "eeb5",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "AssetLibrary": {
+    "unicode": "eeb6",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "DataConnectionLibrary": {
+    "unicode": "eeb7",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "DocLibrary": {
+    "unicode": "eeb8",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "FormLibrary": {
+    "unicode": "eeb9",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "FormLibraryMirrored": {
+    "unicode": "eeba",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "ReportLibrary": {
+    "unicode": "eebb",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "ReportLibraryMirrored": {
+    "unicode": "eebc",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "ContactCard": {
+    "unicode": "eebd",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "CustomList": {
+    "unicode": "eebe",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "CustomListMirrored": {
+    "unicode": "eebf",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "IssueTracking": {
+    "unicode": "eec0",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "IssueTrackingMirrored": {
+    "unicode": "eec1",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "PictureLibrary": {
+    "unicode": "eec2",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "OfficeAddinsLogo": {
+    "unicode": "eec7",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "OfflineOneDriveParachute": {
+    "unicode": "eec8",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "OfflineOneDriveParachuteDisabled": {
+    "unicode": "eec9",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "TriangleSolidUp12": {
+    "unicode": "eecc",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "TriangleSolidDown12": {
+    "unicode": "eecd",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "TriangleSolidLeft12": {
+    "unicode": "eece",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "TriangleSolidRight12": {
+    "unicode": "eecf",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "TriangleUp12": {
+    "unicode": "eed0",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "TriangleDown12": {
+    "unicode": "eed1",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "TriangleLeft12": {
+    "unicode": "eed2",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "TriangleRight12": {
+    "unicode": "eed3",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "ArrowUpRight8": {
+    "unicode": "eed4",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "ArrowDownRight8": {
+    "unicode": "eed5",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "DocumentSet": {
+    "unicode": "eed6",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "GoToDashboard": {
+    "unicode": "eeed",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "DelveAnalytics": {
+    "unicode": "eeee",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "ArrowUpRightMirrored8": {
+    "unicode": "eeef",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "ArrowDownRightMirrored8": {
+    "unicode": "eef0",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "CompanyDirectory": {
+    "unicode": "ef0d",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "OpenEnrollment": {
+    "unicode": "ef1c",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "CompanyDirectoryMirrored": {
+    "unicode": "ef2b",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "OneDriveAdd": {
+    "unicode": "ef32",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "ProfileSearch": {
+    "unicode": "ef35",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "Header2": {
+    "unicode": "ef36",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "Header3": {
+    "unicode": "ef37",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "Header4": {
+    "unicode": "ef38",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "RingerSolid": {
+    "unicode": "ef3a",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "Eyedropper": {
+    "unicode": "ef3c",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "MarketDown": {
+    "unicode": "ef42",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "CalendarWorkWeek": {
+    "unicode": "ef51",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "SidePanel": {
+    "unicode": "ef52",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "GlobeFavorite": {
+    "unicode": "ef53",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "CaretTopLeftSolid8": {
+    "unicode": "ef54",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "CaretTopRightSolid8": {
+    "unicode": "ef55",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "ViewAll2": {
+    "unicode": "ef56",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "DocumentReply": {
+    "unicode": "ef57",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "PlayerSettings": {
+    "unicode": "ef58",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "ReceiptForward": {
+    "unicode": "ef59",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "ReceiptReply": {
+    "unicode": "ef5a",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "ReceiptCheck": {
+    "unicode": "ef5b",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "Fax": {
+    "unicode": "ef5c",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "RecurringEvent": {
+    "unicode": "ef5d",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "ReplyAlt": {
+    "unicode": "ef5e",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "ReplyAllAlt": {
+    "unicode": "ef5f",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "EditStyle": {
+    "unicode": "ef60",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "EditMail": {
+    "unicode": "ef61",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "Lifesaver": {
+    "unicode": "ef62",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "LifesaverLock": {
+    "unicode": "ef63",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "InboxCheck": {
+    "unicode": "ef64",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "FolderSearch": {
+    "unicode": "ef65",
+    "fontFile": "fonts/fabric-icons-7-2b97bb99.woff"
+  },
+  "CollapseMenu": {
+    "unicode": "ef66",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "ExpandMenu": {
+    "unicode": "ef67",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "Boards": {
+    "unicode": "ef68",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "SunAdd": {
+    "unicode": "ef69",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "SunQuestionMark": {
+    "unicode": "ef6a",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "LandscapeOrientation": {
+    "unicode": "ef6b",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "DocumentSearch": {
+    "unicode": "ef6c",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "PublicCalendar": {
+    "unicode": "ef6d",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "PublicContactCard": {
+    "unicode": "ef6e",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "PublicEmail": {
+    "unicode": "ef6f",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "PublicFolder": {
+    "unicode": "ef70",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "WordDocument": {
+    "unicode": "ef71",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "PowerPointDocument": {
+    "unicode": "ef72",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "ExcelDocument": {
+    "unicode": "ef73",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "GroupedList": {
+    "unicode": "ef74",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "ClassroomLogo": {
+    "unicode": "ef75",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "Sections": {
+    "unicode": "ef76",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "EditPhoto": {
+    "unicode": "ef77",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "Starburst": {
+    "unicode": "ef78",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "ShareiOS": {
+    "unicode": "ef79",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "AirTickets": {
+    "unicode": "ef7a",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "PencilReply": {
+    "unicode": "ef7b",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "Tiles2": {
+    "unicode": "ef7c",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "SkypeCircleCheck": {
+    "unicode": "ef7d",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "SkypeCircleClock": {
+    "unicode": "ef7e",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "SkypeCircleMinus": {
+    "unicode": "ef7f",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "SkypeMessage": {
+    "unicode": "ef83",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "ClosedCaption": {
+    "unicode": "ef84",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "ATPLogo": {
+    "unicode": "ef85",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "OfficeFormsLogoInverse": {
+    "unicode": "ef86",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "RecycleBin": {
+    "unicode": "ef87",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "EmptyRecycleBin": {
+    "unicode": "ef88",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "Hide2": {
+    "unicode": "ef89",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "Breadcrumb": {
+    "unicode": "ef8c",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "BirthdayCake": {
+    "unicode": "ef8d",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "TimeEntry": {
+    "unicode": "ef95",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "CRMProcesses": {
+    "unicode": "efb1",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "PageEdit": {
+    "unicode": "efb6",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "PageArrowRight": {
+    "unicode": "efb8",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "PageRemove": {
+    "unicode": "efba",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "Database": {
+    "unicode": "efc7",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "DataManagementSettings": {
+    "unicode": "efc8",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "CRMServices": {
+    "unicode": "efd2",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "EditContact": {
+    "unicode": "efd3",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "ConnectContacts": {
+    "unicode": "efd4",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "AppIconDefaultAdd": {
+    "unicode": "efda",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "AppIconDefaultList": {
+    "unicode": "efde",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "ActivateOrders": {
+    "unicode": "efe0",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "DeactivateOrders": {
+    "unicode": "efe1",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "ProductCatalog": {
+    "unicode": "efe8",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "ScatterChart": {
+    "unicode": "efeb",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "AccountActivity": {
+    "unicode": "eff4",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "DocumentManagement": {
+    "unicode": "effc",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "CRMReport": {
+    "unicode": "effe",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "KnowledgeArticle": {
+    "unicode": "f000",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "Relationship": {
+    "unicode": "f003",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "HomeVerify": {
+    "unicode": "f00e",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "ZipFolder": {
+    "unicode": "f012",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "SurveyQuestions": {
+    "unicode": "f01b",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "TextDocument": {
+    "unicode": "f029",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "TextDocumentShared": {
+    "unicode": "f02b",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "PageCheckedOut": {
+    "unicode": "f02c",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "PageShared": {
+    "unicode": "f02d",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "SaveAndClose": {
+    "unicode": "f038",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "Script": {
+    "unicode": "f03a",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "Archive": {
+    "unicode": "f03f",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "ActivityFeed": {
+    "unicode": "f056",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "Compare": {
+    "unicode": "f057",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "EventDate": {
+    "unicode": "f059",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "ArrowUpRight": {
+    "unicode": "f069",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "CaretRight": {
+    "unicode": "f06b",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "SetAction": {
+    "unicode": "f071",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "ChatBot": {
+    "unicode": "f08b",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "CaretSolidLeft": {
+    "unicode": "f08d",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "CaretSolidDown": {
+    "unicode": "f08e",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "CaretSolidRight": {
+    "unicode": "f08f",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "CaretSolidUp": {
+    "unicode": "f090",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "PowerAppsLogo": {
+    "unicode": "f091",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "PowerApps2Logo": {
+    "unicode": "f092",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "SearchIssue": {
+    "unicode": "f09a",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "SearchIssueMirrored": {
+    "unicode": "f09b",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "FabricAssetLibrary": {
+    "unicode": "f09c",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "FabricDataConnectionLibrary": {
+    "unicode": "f09d",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "FabricDocLibrary": {
+    "unicode": "f09e",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "FabricFormLibrary": {
+    "unicode": "f09f",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "FabricFormLibraryMirrored": {
+    "unicode": "f0a0",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "FabricReportLibrary": {
+    "unicode": "f0a1",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "FabricReportLibraryMirrored": {
+    "unicode": "f0a2",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "FabricPublicFolder": {
+    "unicode": "f0a3",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "FabricFolderSearch": {
+    "unicode": "f0a4",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "FabricMovetoFolder": {
+    "unicode": "f0a5",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "FabricUnsyncFolder": {
+    "unicode": "f0a6",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "FabricSyncFolder": {
+    "unicode": "f0a7",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "FabricOpenFolderHorizontal": {
+    "unicode": "f0a8",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "FabricFolder": {
+    "unicode": "f0a9",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "FabricFolderFill": {
+    "unicode": "f0aa",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "FabricNewFolder": {
+    "unicode": "f0ab",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "FabricPictureLibrary": {
+    "unicode": "f0ac",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "PhotoVideoMedia": {
+    "unicode": "f0b1",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "AddFavorite": {
+    "unicode": "f0c8",
+    "fontFile": "fonts/fabric-icons-8-6fdf1528.woff"
+  },
+  "AddFavoriteFill": {
+    "unicode": "f0c9",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "BufferTimeBefore": {
+    "unicode": "f0cf",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "BufferTimeAfter": {
+    "unicode": "f0d0",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "BufferTimeBoth": {
+    "unicode": "f0d1",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "PublishContent": {
+    "unicode": "f0d4",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "ClipboardList": {
+    "unicode": "f0e3",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "ClipboardListMirrored": {
+    "unicode": "f0e4",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "CannedChat": {
+    "unicode": "f0f2",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "SkypeForBusinessLogo": {
+    "unicode": "f0fc",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "TabCenter": {
+    "unicode": "f100",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "PageCheckedin": {
+    "unicode": "f104",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "PageList": {
+    "unicode": "f106",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "ReadOutLoud": {
+    "unicode": "f112",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "CaretBottomLeftSolid8": {
+    "unicode": "f121",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "CaretBottomRightSolid8": {
+    "unicode": "f122",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "FolderHorizontal": {
+    "unicode": "f12b",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "MicrosoftStaffhubLogo": {
+    "unicode": "f130",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "GiftboxOpen": {
+    "unicode": "f133",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "StatusCircleOuter": {
+    "unicode": "f136",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "StatusCircleInner": {
+    "unicode": "f137",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "StatusCircleRing": {
+    "unicode": "f138",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "StatusTriangleOuter": {
+    "unicode": "f139",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "StatusTriangleInner": {
+    "unicode": "f13a",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "StatusTriangleExclamation": {
+    "unicode": "f13b",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "StatusCircleExclamation": {
+    "unicode": "f13c",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "StatusCircleErrorX": {
+    "unicode": "f13d",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "StatusCircleInfo": {
+    "unicode": "f13f",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "StatusCircleBlock": {
+    "unicode": "f140",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "StatusCircleBlock2": {
+    "unicode": "f141",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "StatusCircleQuestionMark": {
+    "unicode": "f142",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "StatusCircleSync": {
+    "unicode": "f143",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "Toll": {
+    "unicode": "f160",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "ExploreContentSingle": {
+    "unicode": "f164",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "CollapseContent": {
+    "unicode": "f165",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "CollapseContentSingle": {
+    "unicode": "f166",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "InfoSolid": {
+    "unicode": "f167",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "GroupList": {
+    "unicode": "f168",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "ProgressRingDots": {
+    "unicode": "f16a",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "CaloriesAdd": {
+    "unicode": "f172",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "BranchFork": {
+    "unicode": "f173",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "MuteChat": {
+    "unicode": "f17a",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "AddHome": {
+    "unicode": "f17b",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "AddWork": {
+    "unicode": "f17c",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "MobileReport": {
+    "unicode": "f18a",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "ScaleVolume": {
+    "unicode": "f18c",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "HardDriveGroup": {
+    "unicode": "f18f",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "FastMode": {
+    "unicode": "f19a",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "ToggleLeft": {
+    "unicode": "f19e",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "ToggleRight": {
+    "unicode": "f19f",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "TriangleShape": {
+    "unicode": "f1a7",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "RectangleShape": {
+    "unicode": "f1a9",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "CubeShape": {
+    "unicode": "f1aa",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "Trophy2": {
+    "unicode": "f1ae",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "BucketColor": {
+    "unicode": "f1b6",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "BucketColorFill": {
+    "unicode": "f1b7",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "Taskboard": {
+    "unicode": "f1c2",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "SingleColumn": {
+    "unicode": "f1d3",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "DoubleColumn": {
+    "unicode": "f1d4",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "TripleColumn": {
+    "unicode": "f1d5",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "ColumnLeftTwoThirds": {
+    "unicode": "f1d6",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "ColumnRightTwoThirds": {
+    "unicode": "f1d7",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "AccessLogoFill": {
+    "unicode": "f1db",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "AnalyticsLogo": {
+    "unicode": "f1de",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "AnalyticsQuery": {
+    "unicode": "f1df",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "NewAnalyticsQuery": {
+    "unicode": "f1e0",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "AnalyticsReport": {
+    "unicode": "f1e1",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "WordLogo": {
+    "unicode": "f1e3",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "WordLogoFill": {
+    "unicode": "f1e4",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "ExcelLogo": {
+    "unicode": "f1e5",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "ExcelLogoFill": {
+    "unicode": "f1e6",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "OneNoteLogo": {
+    "unicode": "f1e7",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "OneNoteLogoFill": {
+    "unicode": "f1e8",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "OutlookLogo": {
+    "unicode": "f1e9",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "OutlookLogoFill": {
+    "unicode": "f1ea",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "PowerPointLogo": {
+    "unicode": "f1eb",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "PowerPointLogoFill": {
+    "unicode": "f1ec",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "PublisherLogo": {
+    "unicode": "f1ed",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "PublisherLogoFill": {
+    "unicode": "f1ee",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "ScheduleEventAction": {
+    "unicode": "f1ef",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "FlameSolid": {
+    "unicode": "f1f3",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "ServerProcesses": {
+    "unicode": "f1fe",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "Server": {
+    "unicode": "f201",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "SaveAll": {
+    "unicode": "f203",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "LinkedInLogo": {
+    "unicode": "f20a",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "Decimals": {
+    "unicode": "f218",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "SidePanelMirrored": {
+    "unicode": "f221",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "ProtectRestrict": {
+    "unicode": "f22a",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "Blog": {
+    "unicode": "f22b",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "UnknownMirrored": {
+    "unicode": "f22e",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "PublicContactCardMirrored": {
+    "unicode": "f230",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "GridViewSmall": {
+    "unicode": "f232",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "GridViewMedium": {
+    "unicode": "f233",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "GridViewLarge": {
+    "unicode": "f234",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "Step": {
+    "unicode": "f241",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "StepInsert": {
+    "unicode": "f242",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "StepShared": {
+    "unicode": "f243",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "StepSharedAdd": {
+    "unicode": "f244",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "StepSharedInsert": {
+    "unicode": "f245",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "ViewDashboard": {
+    "unicode": "f246",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "ViewList": {
+    "unicode": "f247",
+    "fontFile": "fonts/fabric-icons-9-c6162b42.woff"
+  },
+  "ViewListGroup": {
+    "unicode": "f248",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "ViewListTree": {
+    "unicode": "f249",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "TriggerAuto": {
+    "unicode": "f24a",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "TriggerUser": {
+    "unicode": "f24b",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "PivotChart": {
+    "unicode": "f24c",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "StackedBarChart": {
+    "unicode": "f24d",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "StackedLineChart": {
+    "unicode": "f24e",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "BuildQueue": {
+    "unicode": "f24f",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "BuildQueueNew": {
+    "unicode": "f250",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "UserFollowed": {
+    "unicode": "f25c",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "ContactLink": {
+    "unicode": "f25f",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "Stack": {
+    "unicode": "f26f",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "Bullseye": {
+    "unicode": "f272",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "VennDiagram": {
+    "unicode": "f273",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "FiveTileGrid": {
+    "unicode": "f274",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "FocalPoint": {
+    "unicode": "f277",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "Insert": {
+    "unicode": "f278",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "RingerRemove": {
+    "unicode": "f279",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "TeamsLogoInverse": {
+    "unicode": "f27a",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "TeamsLogo": {
+    "unicode": "f27b",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "TeamsLogoFill": {
+    "unicode": "f27c",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "SkypeForBusinessLogoFill": {
+    "unicode": "f27d",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "SharepointLogo": {
+    "unicode": "f27e",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "SharepointLogoFill": {
+    "unicode": "f27f",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "DelveLogo": {
+    "unicode": "f280",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "DelveLogoFill": {
+    "unicode": "f281",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "OfficeVideoLogo": {
+    "unicode": "f282",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "OfficeVideoLogoFill": {
+    "unicode": "f283",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "ExchangeLogo": {
+    "unicode": "f284",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "ExchangeLogoFill": {
+    "unicode": "f285",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "Signin": {
+    "unicode": "f286",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "DocumentApproval": {
+    "unicode": "f28b",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "CloneToDesktop": {
+    "unicode": "f28c",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "InstallToDrive": {
+    "unicode": "f28d",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "Blur": {
+    "unicode": "f28e",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "Build": {
+    "unicode": "f28f",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "ProcessMetaTask": {
+    "unicode": "f290",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "BranchFork2": {
+    "unicode": "f291",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "BranchLocked": {
+    "unicode": "f292",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "BranchCommit": {
+    "unicode": "f293",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "BranchCompare": {
+    "unicode": "f294",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "BranchMerge": {
+    "unicode": "f295",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "BranchPullRequest": {
+    "unicode": "f296",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "BranchSearch": {
+    "unicode": "f297",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "BranchShelveset": {
+    "unicode": "f298",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "RawSource": {
+    "unicode": "f299",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "MergeDuplicate": {
+    "unicode": "f29a",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "RowsGroup": {
+    "unicode": "f29b",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "RowsChild": {
+    "unicode": "f29c",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "Deploy": {
+    "unicode": "f29d",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "Redeploy": {
+    "unicode": "f29e",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "ServerEnviroment": {
+    "unicode": "f29f",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "VisioDiagram": {
+    "unicode": "f2a0",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "HighlightMappedShapes": {
+    "unicode": "f2a1",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "TextCallout": {
+    "unicode": "f2a2",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "IconSetsFlag": {
+    "unicode": "f2a4",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "VisioLogo": {
+    "unicode": "f2a7",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "VisioLogoFill": {
+    "unicode": "f2a8",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "VisioDocument": {
+    "unicode": "f2a9",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "TimelineProgress": {
+    "unicode": "f2aa",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "TimelineDelivery": {
+    "unicode": "f2ab",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "Backlog": {
+    "unicode": "f2ac",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "TeamFavorite": {
+    "unicode": "f2ad",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "TaskGroup": {
+    "unicode": "f2ae",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "TaskGroupMirrored": {
+    "unicode": "f2af",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "ScopeTemplate": {
+    "unicode": "f2b0",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "AssessmentGroupTemplate": {
+    "unicode": "f2b1",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "NewTeamProject": {
+    "unicode": "f2b2",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "CommentAdd": {
+    "unicode": "f2b3",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "CommentNext": {
+    "unicode": "f2b4",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "CommentPrevious": {
+    "unicode": "f2b5",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "ShopServer": {
+    "unicode": "f2b6",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "LocaleLanguage": {
+    "unicode": "f2b7",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "QueryList": {
+    "unicode": "f2b8",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "UserSync": {
+    "unicode": "f2b9",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "UserPause": {
+    "unicode": "f2ba",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "StreamingOff": {
+    "unicode": "f2bb",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "ArrowTallUpLeft": {
+    "unicode": "f2bd",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "ArrowTallUpRight": {
+    "unicode": "f2be",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "ArrowTallDownLeft": {
+    "unicode": "f2bf",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "ArrowTallDownRight": {
+    "unicode": "f2c0",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "FieldEmpty": {
+    "unicode": "f2c1",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "FieldFilled": {
+    "unicode": "f2c2",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "FieldChanged": {
+    "unicode": "f2c3",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "FieldNotChanged": {
+    "unicode": "f2c4",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "RingerOff": {
+    "unicode": "f2c5",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "PlayResume": {
+    "unicode": "f2c6",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "BulletedList2": {
+    "unicode": "f2c7",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "BulletedList2Mirrored": {
+    "unicode": "f2c8",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "ImageCrosshair": {
+    "unicode": "f2c9",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "GitGraph": {
+    "unicode": "f2ca",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "Repo": {
+    "unicode": "f2cb",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "RepoSolid": {
+    "unicode": "f2cc",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "FolderQuery": {
+    "unicode": "f2cd",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "FolderList": {
+    "unicode": "f2ce",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "FolderListMirrored": {
+    "unicode": "f2cf",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "LocationOutline": {
+    "unicode": "f2d0",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "POISolid": {
+    "unicode": "f2d1",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "CalculatorNotEqualTo": {
+    "unicode": "f2d2",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "BoxSubtractSolid": {
+    "unicode": "f2d3",
+    "fontFile": "fonts/fabric-icons-10-c4ded8e4.woff"
+  },
+  "BoxAdditionSolid": {
+    "unicode": "f2d4",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "BoxMultiplySolid": {
+    "unicode": "f2d5",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "BoxPlaySolid": {
+    "unicode": "f2d6",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "BoxCheckmarkSolid": {
+    "unicode": "f2d7",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "CirclePauseSolid": {
+    "unicode": "f2d8",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "CirclePause": {
+    "unicode": "f2d9",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "MSNVideosSolid": {
+    "unicode": "f2da",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "CircleStopSolid": {
+    "unicode": "f2db",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "CircleStop": {
+    "unicode": "f2dc",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "NavigateBack": {
+    "unicode": "f2dd",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "NavigateBackMirrored": {
+    "unicode": "f2de",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "NavigateForward": {
+    "unicode": "f2df",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "NavigateForwardMirrored": {
+    "unicode": "f2e0",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "UnknownSolid": {
+    "unicode": "f2e1",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "UnknownMirroredSolid": {
+    "unicode": "f2e2",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "CircleAddition": {
+    "unicode": "f2e3",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "CircleAdditionSolid": {
+    "unicode": "f2e4",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "FilePDB": {
+    "unicode": "f2e5",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "FileTemplate": {
+    "unicode": "f2e6",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "FileSQL": {
+    "unicode": "f2e7",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "FileJAVA": {
+    "unicode": "f2e8",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "FileASPX": {
+    "unicode": "f2e9",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "FileCSS": {
+    "unicode": "f2ea",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "FileSass": {
+    "unicode": "f2eb",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "FileLess": {
+    "unicode": "f2ec",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "FileHTML": {
+    "unicode": "f2ed",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "JavaScriptLanguage": {
+    "unicode": "f2ee",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "CSharpLanguage": {
+    "unicode": "f2ef",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "CSharp": {
+    "unicode": "f2f0",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "VisualBasicLanguage": {
+    "unicode": "f2f1",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "VB": {
+    "unicode": "f2f2",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "CPlusPlusLanguage": {
+    "unicode": "f2f3",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "CPlusPlus": {
+    "unicode": "f2f4",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "FSharpLanguage": {
+    "unicode": "f2f5",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "FSharp": {
+    "unicode": "f2f6",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "TypeScriptLanguage": {
+    "unicode": "f2f7",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "PythonLanguage": {
+    "unicode": "f2f8",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "PY": {
+    "unicode": "f2f9",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "CoffeeScript": {
+    "unicode": "f2fa",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "MarkDownLanguage": {
+    "unicode": "f2fb",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "FullWidth": {
+    "unicode": "f2fe",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "FullWidthEdit": {
+    "unicode": "f2ff",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "Plug": {
+    "unicode": "f300",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "PlugSolid": {
+    "unicode": "f301",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "PlugConnected": {
+    "unicode": "f302",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "PlugDisconnected": {
+    "unicode": "f303",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "UnlockSolid": {
+    "unicode": "f304",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "Variable": {
+    "unicode": "f305",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "Parameter": {
+    "unicode": "f306",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "CommentUrgent": {
+    "unicode": "f307",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "Storyboard": {
+    "unicode": "f308",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "DiffInline": {
+    "unicode": "f309",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "DiffSideBySide": {
+    "unicode": "f30a",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "ImageDiff": {
+    "unicode": "f30b",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "ImagePixel": {
+    "unicode": "f30c",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "FileBug": {
+    "unicode": "f30d",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "FileCode": {
+    "unicode": "f30e",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "FileComment": {
+    "unicode": "f30f",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "BusinessHoursSign": {
+    "unicode": "f310",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "FileImage": {
+    "unicode": "f311",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "FileSymlink": {
+    "unicode": "f312",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "AutoFillTemplate": {
+    "unicode": "f313",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "WorkItem": {
+    "unicode": "f314",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "WorkItemBug": {
+    "unicode": "f315",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "LogRemove": {
+    "unicode": "f316",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "ColumnOptions": {
+    "unicode": "f317",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "Packages": {
+    "unicode": "f318",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "BuildIssue": {
+    "unicode": "f319",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "AssessmentGroup": {
+    "unicode": "f31a",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "VariableGroup": {
+    "unicode": "f31b",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "FullHistory": {
+    "unicode": "f31c",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "Wheelchair": {
+    "unicode": "f31f",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "SingleColumnEdit": {
+    "unicode": "f321",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "DoubleColumnEdit": {
+    "unicode": "f322",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "TripleColumnEdit": {
+    "unicode": "f323",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "ColumnLeftTwoThirdsEdit": {
+    "unicode": "f324",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "ColumnRightTwoThirdsEdit": {
+    "unicode": "f325",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "StreamLogo": {
+    "unicode": "f329",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "PassiveAuthentication": {
+    "unicode": "f32a",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "AlertSolid": {
+    "unicode": "f331",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "MegaphoneSolid": {
+    "unicode": "f332",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "TaskSolid": {
+    "unicode": "f333",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "ConfigurationSolid": {
+    "unicode": "f334",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "BugSolid": {
+    "unicode": "f335",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "CrownSolid": {
+    "unicode": "f336",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "Trophy2Solid": {
+    "unicode": "f337",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "QuickNoteSolid": {
+    "unicode": "f338",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "ConstructionConeSolid": {
+    "unicode": "f339",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "PageListSolid": {
+    "unicode": "f33a",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "PageListMirroredSolid": {
+    "unicode": "f33b",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "StarburstSolid": {
+    "unicode": "f33c",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "ReadingModeSolid": {
+    "unicode": "f33d",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "SadSolid": {
+    "unicode": "f33e",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "HealthSolid": {
+    "unicode": "f33f",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "ShieldSolid": {
+    "unicode": "f340",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "GiftBoxSolid": {
+    "unicode": "f341",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "ShoppingCartSolid": {
+    "unicode": "f342",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "MailSolid": {
+    "unicode": "f343",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "ChatSolid": {
+    "unicode": "f344",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "RibbonSolid": {
+    "unicode": "f345",
+    "fontFile": "fonts/fabric-icons-11-2a8393d6.woff"
+  },
+  "FinancialSolid": {
+    "unicode": "f346",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "FinancialMirroredSolid": {
+    "unicode": "f347",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "HeadsetSolid": {
+    "unicode": "f348",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "PermissionsSolid": {
+    "unicode": "f349",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "ParkingSolid": {
+    "unicode": "f34a",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "ParkingMirroredSolid": {
+    "unicode": "f34b",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "DiamondSolid": {
+    "unicode": "f34c",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "AsteriskSolid": {
+    "unicode": "f34d",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "OfflineStorageSolid": {
+    "unicode": "f34e",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "BankSolid": {
+    "unicode": "f34f",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "DecisionSolid": {
+    "unicode": "f350",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "Parachute": {
+    "unicode": "f351",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "ParachuteSolid": {
+    "unicode": "f352",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "FiltersSolid": {
+    "unicode": "f353",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "ColorSolid": {
+    "unicode": "f354",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "ReviewSolid": {
+    "unicode": "f355",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "ReviewRequestSolid": {
+    "unicode": "f356",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "ReviewRequestMirroredSolid": {
+    "unicode": "f357",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "ReviewResponseSolid": {
+    "unicode": "f358",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "FeedbackRequestSolid": {
+    "unicode": "f359",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "FeedbackRequestMirroredSolid": {
+    "unicode": "f35a",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "FeedbackResponseSolid": {
+    "unicode": "f35b",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "WorkItemBar": {
+    "unicode": "f35c",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "WorkItemBarSolid": {
+    "unicode": "f35d",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "Separator": {
+    "unicode": "f35e",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "NavigateExternalInline": {
+    "unicode": "f35f",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "PlanView": {
+    "unicode": "f360",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "TimelineMatrixView": {
+    "unicode": "f361",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "EngineeringGroup": {
+    "unicode": "f362",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "ProjectCollection": {
+    "unicode": "f363",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "CaretBottomRightCenter8": {
+    "unicode": "f364",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "CaretBottomLeftCenter8": {
+    "unicode": "f365",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "CaretTopRightCenter8": {
+    "unicode": "f366",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "CaretTopLeftCenter8": {
+    "unicode": "f367",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "DonutChart": {
+    "unicode": "f368",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "ChevronUnfold10": {
+    "unicode": "f369",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "ChevronFold10": {
+    "unicode": "f36a",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "DoubleChevronDown8": {
+    "unicode": "f36b",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "DoubleChevronUp8": {
+    "unicode": "f36c",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "DoubleChevronLeft8": {
+    "unicode": "f36d",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "DoubleChevronRight8": {
+    "unicode": "f36e",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "ChevronDownEnd6": {
+    "unicode": "f36f",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "ChevronUpEnd6": {
+    "unicode": "f370",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "ChevronLeftEnd6": {
+    "unicode": "f371",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "ChevronRightEnd6": {
+    "unicode": "f372",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "ContextMenu": {
+    "unicode": "f37c",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "AzureAPIManagement": {
+    "unicode": "f37f",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "AzureServiceEndpoint": {
+    "unicode": "f380",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "VSTSLogo": {
+    "unicode": "f381",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "VSTSAltLogo1": {
+    "unicode": "f382",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "VSTSAltLogo2": {
+    "unicode": "f383",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "FileTypeSolution": {
+    "unicode": "f387",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "WordLogoInverse16": {
+    "unicode": "f390",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "WordLogo16": {
+    "unicode": "f391",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "WordLogoFill16": {
+    "unicode": "f392",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "PowerPointLogoInverse16": {
+    "unicode": "f393",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "PowerPointLogo16": {
+    "unicode": "f394",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "PowerPointLogoFill16": {
+    "unicode": "f395",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "ExcelLogoInverse16": {
+    "unicode": "f396",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "ExcelLogo16": {
+    "unicode": "f397",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "ExcelLogoFill16": {
+    "unicode": "f398",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "OneNoteLogoInverse16": {
+    "unicode": "f399",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "OneNoteLogo16": {
+    "unicode": "f39a",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "OneNoteLogoFill16": {
+    "unicode": "f39b",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "OutlookLogoInverse16": {
+    "unicode": "f39c",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "OutlookLogo16": {
+    "unicode": "f39d",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "OutlookLogoFill16": {
+    "unicode": "f39e",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "PublisherLogoInverse16": {
+    "unicode": "f39f",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "PublisherLogo16": {
+    "unicode": "f3a0",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "PublisherLogoFill16": {
+    "unicode": "f3a1",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "VisioLogoInverse16": {
+    "unicode": "f3a2",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "VisioLogo16": {
+    "unicode": "f3a3",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "VisioLogoFill16": {
+    "unicode": "f3a4",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "TestBeaker": {
+    "unicode": "f3a5",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "TestBeakerSolid": {
+    "unicode": "f3a6",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "TestExploreSolid": {
+    "unicode": "f3a7",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "TestAutoSolid": {
+    "unicode": "f3a8",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "TestUserSolid": {
+    "unicode": "f3a9",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "TestImpactSolid": {
+    "unicode": "f3aa",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "TestPlan": {
+    "unicode": "f3ab",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "TestStep": {
+    "unicode": "f3ac",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "TestParameter": {
+    "unicode": "f3ad",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "TestSuite": {
+    "unicode": "f3ae",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "TestCase": {
+    "unicode": "f3af",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "Sprint": {
+    "unicode": "f3b0",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "SignOut": {
+    "unicode": "f3b1",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "TriggerApproval": {
+    "unicode": "f3b2",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "Rocket": {
+    "unicode": "f3b3",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "AzureKeyVault": {
+    "unicode": "f3b4",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "Onboarding": {
+    "unicode": "f3ba",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "Transition": {
+    "unicode": "f3bc",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "LikeSolid": {
+    "unicode": "f3bf",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "DislikeSolid": {
+    "unicode": "f3c0",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "CRMCustomerInsightsApp": {
+    "unicode": "f3c8",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "EditCreate": {
+    "unicode": "f3c9",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "PlayReverseResume": {
+    "unicode": "f3e4",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "PlayReverse": {
+    "unicode": "f3e5",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "SearchData": {
+    "unicode": "f3f1",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "UnSetColor": {
+    "unicode": "f3f9",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "DeclineCall": {
+    "unicode": "f405",
+    "fontFile": "fonts/fabric-icons-12-7e945a1e.woff"
+  },
+  "RectangularClipping": {
+    "unicode": "f407",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "TeamsLogo16": {
+    "unicode": "f40a",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "TeamsLogoFill16": {
+    "unicode": "f40b",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "Spacer": {
+    "unicode": "f40d",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "SkypeLogo16": {
+    "unicode": "f40e",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "SkypeForBusinessLogo16": {
+    "unicode": "f40f",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "SkypeForBusinessLogoFill16": {
+    "unicode": "f410",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "FilterSolid": {
+    "unicode": "f412",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "MailUndelivered": {
+    "unicode": "f415",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "MailTentative": {
+    "unicode": "f416",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "MailTentativeMirrored": {
+    "unicode": "f417",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "MailReminder": {
+    "unicode": "f418",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "ReceiptUndelivered": {
+    "unicode": "f419",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "ReceiptTentative": {
+    "unicode": "f41a",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "ReceiptTentativeMirrored": {
+    "unicode": "f41b",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "Inbox": {
+    "unicode": "f41c",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "IRMReply": {
+    "unicode": "f41d",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "IRMReplyMirrored": {
+    "unicode": "f41e",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "IRMForward": {
+    "unicode": "f41f",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "IRMForwardMirrored": {
+    "unicode": "f420",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "VoicemailIRM": {
+    "unicode": "f421",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "EventAccepted": {
+    "unicode": "f422",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "EventTentative": {
+    "unicode": "f423",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "EventTentativeMirrored": {
+    "unicode": "f424",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "EventDeclined": {
+    "unicode": "f425",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "IDBadge": {
+    "unicode": "f427",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "BackgroundColor": {
+    "unicode": "f42b",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "OfficeFormsLogoInverse16": {
+    "unicode": "f433",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "OfficeFormsLogo": {
+    "unicode": "f434",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "OfficeFormsLogoFill": {
+    "unicode": "f435",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "OfficeFormsLogo16": {
+    "unicode": "f436",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "OfficeFormsLogoFill16": {
+    "unicode": "f437",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "OfficeFormsLogoInverse24": {
+    "unicode": "f43a",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "OfficeFormsLogo24": {
+    "unicode": "f43b",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "OfficeFormsLogoFill24": {
+    "unicode": "f43c",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "PageLock": {
+    "unicode": "f43f",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "NotExecuted": {
+    "unicode": "f440",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "NotImpactedSolid": {
+    "unicode": "f441",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "FieldReadOnly": {
+    "unicode": "f442",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "FieldRequired": {
+    "unicode": "f443",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "BacklogBoard": {
+    "unicode": "f444",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "ExternalBuild": {
+    "unicode": "f445",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "ExternalTFVC": {
+    "unicode": "f446",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "ExternalXAML": {
+    "unicode": "f447",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "IssueSolid": {
+    "unicode": "f448",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "DefectSolid": {
+    "unicode": "f449",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "LadybugSolid": {
+    "unicode": "f44a",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "NugetLogo": {
+    "unicode": "f44c",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "TFVCLogo": {
+    "unicode": "f44d",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "ProjectLogo32": {
+    "unicode": "f47e",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "ProjectLogoFill32": {
+    "unicode": "f47f",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "ProjectLogo16": {
+    "unicode": "f480",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "ProjectLogoFill16": {
+    "unicode": "f481",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "SwayLogo32": {
+    "unicode": "f482",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "SwayLogoFill32": {
+    "unicode": "f483",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "SwayLogo16": {
+    "unicode": "f484",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "SwayLogoFill16": {
+    "unicode": "f485",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "ClassNotebookLogo32": {
+    "unicode": "f486",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "ClassNotebookLogoFill32": {
+    "unicode": "f487",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "ClassNotebookLogo16": {
+    "unicode": "f488",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "ClassNotebookLogoFill16": {
+    "unicode": "f489",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "ClassNotebookLogoInverse32": {
+    "unicode": "f48a",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "ClassNotebookLogoInverse16": {
+    "unicode": "f48b",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "StaffNotebookLogo32": {
+    "unicode": "f48c",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "StaffNotebookLogoFill32": {
+    "unicode": "f48d",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "StaffNotebookLogo16": {
+    "unicode": "f48e",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "StaffNotebookLogoFill16": {
+    "unicode": "f48f",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "StaffNotebookLogoInverted32": {
+    "unicode": "f490",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "StaffNotebookLogoInverted16": {
+    "unicode": "f491",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "KaizalaLogo": {
+    "unicode": "f492",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "TaskLogo": {
+    "unicode": "f493",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "ProtectionCenterLogo32": {
+    "unicode": "f494",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "GallatinLogo": {
+    "unicode": "f496",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "Globe2": {
+    "unicode": "f49a",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "Guitar": {
+    "unicode": "f49b",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "Breakfast": {
+    "unicode": "f49c",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "Brunch": {
+    "unicode": "f49d",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "BeerMug": {
+    "unicode": "f49e",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "Vacation": {
+    "unicode": "f49f",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "Teeth": {
+    "unicode": "f4a0",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "Taxi": {
+    "unicode": "f4a1",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "Chopsticks": {
+    "unicode": "f4a2",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "SyncOccurence": {
+    "unicode": "f4a3",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "UnsyncOccurence": {
+    "unicode": "f4a4",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "GIF": {
+    "unicode": "f4a9",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "PrimaryCalendar": {
+    "unicode": "f4ae",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "SearchCalendar": {
+    "unicode": "f4af",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "VideoOff": {
+    "unicode": "f4b0",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "MicrosoftFlowLogo": {
+    "unicode": "f4b1",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "BusinessCenterLogo": {
+    "unicode": "f4b2",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "ToDoLogoBottom": {
+    "unicode": "f4b3",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "ToDoLogoTop": {
+    "unicode": "f4b4",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "EditSolid12": {
+    "unicode": "f4b5",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "EditSolidMirrored12": {
+    "unicode": "f4b6",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "UneditableSolid12": {
+    "unicode": "f4b7",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "UneditableSolidMirrored12": {
+    "unicode": "f4b8",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "UneditableMirrored": {
+    "unicode": "f4b9",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "AdminALogo32": {
+    "unicode": "f4ba",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "AdminALogoFill32": {
+    "unicode": "f4bb",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "ToDoLogoInverse": {
+    "unicode": "f4bc",
+    "fontFile": "fonts/fabric-icons-13-c3989a02.woff"
+  },
+  "Snooze": {
+    "unicode": "f4bd",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "WaffleOffice365": {
+    "unicode": "f4e0",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "ImageSearch": {
+    "unicode": "f4e8",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "NewsSearch": {
+    "unicode": "f4e9",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "VideoSearch": {
+    "unicode": "f4ea",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "R": {
+    "unicode": "f4eb",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "FontColorA": {
+    "unicode": "f4ec",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "FontColorSwatch": {
+    "unicode": "f4ed",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "LightWeight": {
+    "unicode": "f4ee",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "NormalWeight": {
+    "unicode": "f4ef",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "SemiboldWeight": {
+    "unicode": "f4f0",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "GroupObject": {
+    "unicode": "f4f1",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "UngroupObject": {
+    "unicode": "f4f2",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "AlignHorizontalLeft": {
+    "unicode": "f4f3",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "AlignHorizontalCenter": {
+    "unicode": "f4f4",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "AlignHorizontalRight": {
+    "unicode": "f4f5",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "AlignVerticalTop": {
+    "unicode": "f4f6",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "AlignVerticalCenter": {
+    "unicode": "f4f7",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "AlignVerticalBottom": {
+    "unicode": "f4f8",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "HorizontalDistributeCenter": {
+    "unicode": "f4f9",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "VerticalDistributeCenter": {
+    "unicode": "f4fa",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "Ellipse": {
+    "unicode": "f4fb",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "Line": {
+    "unicode": "f4fc",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "Octagon": {
+    "unicode": "f4fd",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "Hexagon": {
+    "unicode": "f4fe",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "Pentagon": {
+    "unicode": "f4ff",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "RightTriangle": {
+    "unicode": "f500",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "HalfCircle": {
+    "unicode": "f501",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "QuarterCircle": {
+    "unicode": "f502",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "ThreeQuarterCircle": {
+    "unicode": "f503",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "6PointStar": {
+    "unicode": "f504",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "12PointStar": {
+    "unicode": "f505",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "ArrangeBringToFront": {
+    "unicode": "f506",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "ArrangeSendToBack": {
+    "unicode": "f507",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "ArrangeSendBackward": {
+    "unicode": "f508",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "ArrangeBringForward": {
+    "unicode": "f509",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "BorderDash": {
+    "unicode": "f50a",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "BorderDot": {
+    "unicode": "f50b",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "LineStyle": {
+    "unicode": "f50c",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "LineThickness": {
+    "unicode": "f50d",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "WindowEdit": {
+    "unicode": "f50e",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "HintText": {
+    "unicode": "f50f",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "MediaAdd": {
+    "unicode": "f510",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "AnchorLock": {
+    "unicode": "f511",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "AutoHeight": {
+    "unicode": "f512",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "ChartSeries": {
+    "unicode": "f513",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "ChartXAngle": {
+    "unicode": "f514",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "ChartYAngle": {
+    "unicode": "f515",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "Combobox": {
+    "unicode": "f516",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "LineSpacing": {
+    "unicode": "f517",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "Padding": {
+    "unicode": "f518",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "PaddingTop": {
+    "unicode": "f519",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "PaddingBottom": {
+    "unicode": "f51a",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "PaddingLeft": {
+    "unicode": "f51b",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "PaddingRight": {
+    "unicode": "f51c",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "NavigationFlipper": {
+    "unicode": "f51d",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "AlignJustify": {
+    "unicode": "f51e",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "TextOverflow": {
+    "unicode": "f51f",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "VisualsFolder": {
+    "unicode": "f520",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "VisualsStore": {
+    "unicode": "f521",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "PictureCenter": {
+    "unicode": "f522",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "PictureFill": {
+    "unicode": "f523",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "PicturePosition": {
+    "unicode": "f524",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "PictureStretch": {
+    "unicode": "f525",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "PictureTile": {
+    "unicode": "f526",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "Slider": {
+    "unicode": "f527",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "SliderHandleSize": {
+    "unicode": "f528",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "DefaultRatio": {
+    "unicode": "f529",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "NumberSequence": {
+    "unicode": "f52a",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "GUID": {
+    "unicode": "f52b",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "ReportAdd": {
+    "unicode": "f52c",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "DashboardAdd": {
+    "unicode": "f52d",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "MapPinSolid": {
+    "unicode": "f52e",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "WebPublish": {
+    "unicode": "f52f",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "PieSingleSolid": {
+    "unicode": "f530",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "BlockedSolid": {
+    "unicode": "f531",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "DrillDown": {
+    "unicode": "f532",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "DrillDownSolid": {
+    "unicode": "f533",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "DrillExpand": {
+    "unicode": "f534",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "DrillShow": {
+    "unicode": "f535",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "SpecialEvent": {
+    "unicode": "f536",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "OneDriveFolder16": {
+    "unicode": "f53b",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "FunctionalManagerDashboard": {
+    "unicode": "f542",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "BIDashboard": {
+    "unicode": "f543",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "CodeEdit": {
+    "unicode": "f544",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "RenewalCurrent": {
+    "unicode": "f545",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "RenewalFuture": {
+    "unicode": "f546",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "SplitObject": {
+    "unicode": "f547",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "BulkUpload": {
+    "unicode": "f548",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "DownloadDocument": {
+    "unicode": "f549",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "GreetingCard": {
+    "unicode": "f54b",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "Flower": {
+    "unicode": "f54e",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "WaitlistConfirm": {
+    "unicode": "f550",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "WaitlistConfirmMirrored": {
+    "unicode": "f551",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "LaptopSecure": {
+    "unicode": "f552",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "DragObject": {
+    "unicode": "f553",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "EntryView": {
+    "unicode": "f554",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "EntryDecline": {
+    "unicode": "f555",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "ContactCardSettings": {
+    "unicode": "f556",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "ContactCardSettingsMirrored": {
+    "unicode": "f557",
+    "fontFile": "fonts/fabric-icons-14-5cf58db8.woff"
+  },
+  "CalendarSettings": {
+    "unicode": "f558",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "CalendarSettingsMirrored": {
+    "unicode": "f559",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "HardDriveLock": {
+    "unicode": "f55a",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "HardDriveUnlock": {
+    "unicode": "f55b",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "AccountManagement": {
+    "unicode": "f55c",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "ReportWarning": {
+    "unicode": "f569",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "TransitionPop": {
+    "unicode": "f5b2",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "TransitionPush": {
+    "unicode": "f5b3",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "TransitionEffect": {
+    "unicode": "f5b4",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "LookupEntities": {
+    "unicode": "f5b5",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "ExploreData": {
+    "unicode": "f5b6",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "AddBookmark": {
+    "unicode": "f5b7",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "SearchBookmark": {
+    "unicode": "f5b8",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "DrillThrough": {
+    "unicode": "f5b9",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "MasterDatabase": {
+    "unicode": "f5ba",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "CertifiedDatabase": {
+    "unicode": "f5bb",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "MaximumValue": {
+    "unicode": "f5bc",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "MinimumValue": {
+    "unicode": "f5bd",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "VisualStudioIDELogo32": {
+    "unicode": "f5d0",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "PasteAsText": {
+    "unicode": "f5d5",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "PasteAsCode": {
+    "unicode": "f5d6",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "BrowserTab": {
+    "unicode": "f5d7",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "BrowserTabScreenshot": {
+    "unicode": "f5d8",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "DesktopScreenshot": {
+    "unicode": "f5d9",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "FileYML": {
+    "unicode": "f5da",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "ClipboardSolid": {
+    "unicode": "f5dc",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "FabricUserFolder": {
+    "unicode": "f5e5",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "FabricNetworkFolder": {
+    "unicode": "f5e6",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "BullseyeTarget": {
+    "unicode": "f5f0",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "AnalyticsView": {
+    "unicode": "f5f1",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "Video360Generic": {
+    "unicode": "f609",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "Untag": {
+    "unicode": "f60b",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "Leave": {
+    "unicode": "f627",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "Trending12": {
+    "unicode": "f62d",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "Blocked12": {
+    "unicode": "f62e",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "Warning12": {
+    "unicode": "f62f",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "CheckedOutByOther12": {
+    "unicode": "f630",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "CheckedOutByYou12": {
+    "unicode": "f631",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "CircleShapeSolid": {
+    "unicode": "f63c",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "SquareShapeSolid": {
+    "unicode": "f63d",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "TriangleShapeSolid": {
+    "unicode": "f63e",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "DropShapeSolid": {
+    "unicode": "f63f",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "RectangleShapeSolid": {
+    "unicode": "f640",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "ZoomToFit": {
+    "unicode": "f649",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "InsertColumnsLeft": {
+    "unicode": "f64a",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "InsertColumnsRight": {
+    "unicode": "f64b",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "InsertRowsAbove": {
+    "unicode": "f64c",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "InsertRowsBelow": {
+    "unicode": "f64d",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "DeleteColumns": {
+    "unicode": "f64e",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "DeleteRows": {
+    "unicode": "f64f",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "DeleteRowsMirrored": {
+    "unicode": "f650",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "DeleteTable": {
+    "unicode": "f651",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "AccountBrowser": {
+    "unicode": "f652",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "VersionControlPush": {
+    "unicode": "f664",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "StackedColumnChart2": {
+    "unicode": "f666",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "TripleColumnWide": {
+    "unicode": "f66e",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "QuadColumn": {
+    "unicode": "f66f",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "WhiteBoardApp16": {
+    "unicode": "f673",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "WhiteBoardApp32": {
+    "unicode": "f674",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "PinnedSolid": {
+    "unicode": "f676",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "InsertSignatureLine": {
+    "unicode": "f677",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "ArrangeByFrom": {
+    "unicode": "f678",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "Phishing": {
+    "unicode": "f679",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "CreateMailRule": {
+    "unicode": "f67a",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "PublishCourse": {
+    "unicode": "f699",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "DictionaryRemove": {
+    "unicode": "f69a",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "UserRemove": {
+    "unicode": "f69b",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "UserEvent": {
+    "unicode": "f69c",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "Encryption": {
+    "unicode": "f69d",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "PasswordField": {
+    "unicode": "f6aa",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "OpenInNewTab": {
+    "unicode": "f6ab",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "Hide3": {
+    "unicode": "f6ac",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "VerifiedBrandSolid": {
+    "unicode": "f6ad",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "MarkAsProtected": {
+    "unicode": "f6ae",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "AuthenticatorApp": {
+    "unicode": "f6b1",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "WebTemplate": {
+    "unicode": "f6b2",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "DefenderTVM": {
+    "unicode": "f6b3",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "MedalSolid": {
+    "unicode": "f6b9",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "D365TalentLearn": {
+    "unicode": "f6bb",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "D365TalentInsight": {
+    "unicode": "f6bc",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "D365TalentHRCore": {
+    "unicode": "f6bd",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "BacklogList": {
+    "unicode": "f6bf",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "ButtonControl": {
+    "unicode": "f6c0",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "TableGroup": {
+    "unicode": "f6d9",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "MountainClimbing": {
+    "unicode": "f6db",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "TagUnknown": {
+    "unicode": "f6df",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "TagUnknownMirror": {
+    "unicode": "f6e0",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "TagUnknown12": {
+    "unicode": "f6e1",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "TagUnknown12Mirror": {
+    "unicode": "f6e2",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "Link12": {
+    "unicode": "f6e3",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "Presentation": {
+    "unicode": "f6e4",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "Presentation12": {
+    "unicode": "f6e5",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "Lock12": {
+    "unicode": "f6e6",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "BuildDefinition": {
+    "unicode": "f6e9",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "ReleaseDefinition": {
+    "unicode": "f6ea",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "SaveTemplate": {
+    "unicode": "f6ec",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "UserGauge": {
+    "unicode": "f6ed",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "BlockedSiteSolid12": {
+    "unicode": "f70a",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "TagSolid": {
+    "unicode": "f70e",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "OfficeChat": {
+    "unicode": "f70f",
+    "fontFile": "fonts/fabric-icons-15-3807251b.woff"
+  },
+  "OfficeChatSolid": {
+    "unicode": "f710",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "MailSchedule": {
+    "unicode": "f72e",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "WarningSolid": {
+    "unicode": "f736",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "Blocked2Solid": {
+    "unicode": "f737",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "SkypeCircleArrow": {
+    "unicode": "f747",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "SkypeArrow": {
+    "unicode": "f748",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "SyncStatus": {
+    "unicode": "f751",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "SyncStatusSolid": {
+    "unicode": "f752",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "ProjectDocument": {
+    "unicode": "f759",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "ToDoLogoOutline": {
+    "unicode": "f75b",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "VisioOnlineLogoFill32": {
+    "unicode": "f75f",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "VisioOnlineLogo32": {
+    "unicode": "f760",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "VisioOnlineLogoCloud32": {
+    "unicode": "f761",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "VisioDiagramSync": {
+    "unicode": "f762",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "Event12": {
+    "unicode": "f763",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "EventDateMissed12": {
+    "unicode": "f764",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "UserOptional": {
+    "unicode": "f767",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "ResponsesMenu": {
+    "unicode": "f768",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "DoubleDownArrow": {
+    "unicode": "f769",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "DistributeDown": {
+    "unicode": "f76a",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "BookmarkReport": {
+    "unicode": "f76b",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "FilterSettings": {
+    "unicode": "f76c",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "GripperDotsVertical": {
+    "unicode": "f772",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "MailAttached": {
+    "unicode": "f774",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "AddIn": {
+    "unicode": "f775",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "LinkedDatabase": {
+    "unicode": "f779",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "TableLink": {
+    "unicode": "f77a",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "PromotedDatabase": {
+    "unicode": "f77d",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "BarChartVerticalFilter": {
+    "unicode": "f77e",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "BarChartVerticalFilterSolid": {
+    "unicode": "f77f",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "MicOff2": {
+    "unicode": "f781",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "MicrosoftTranslatorLogo": {
+    "unicode": "f782",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "ShowTimeAs": {
+    "unicode": "f787",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "FileRequest": {
+    "unicode": "f789",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "WorkItemAlert": {
+    "unicode": "f78f",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "PowerBILogo16": {
+    "unicode": "f790",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "PowerBILogoBackplate16": {
+    "unicode": "f791",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "BulletedListText": {
+    "unicode": "f792",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "BulletedListBullet": {
+    "unicode": "f793",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "BulletedListTextMirrored": {
+    "unicode": "f794",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "BulletedListBulletMirrored": {
+    "unicode": "f795",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "NumberedListText": {
+    "unicode": "f796",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "NumberedListNumber": {
+    "unicode": "f797",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "NumberedListTextMirrored": {
+    "unicode": "f798",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "NumberedListNumberMirrored": {
+    "unicode": "f799",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "RemoveLinkChain": {
+    "unicode": "f79a",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "RemoveLinkX": {
+    "unicode": "f79b",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "FabricTextHighlight": {
+    "unicode": "f79c",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "ClearFormattingA": {
+    "unicode": "f79d",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "ClearFormattingEraser": {
+    "unicode": "f79e",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "Photo2Fill": {
+    "unicode": "f79f",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "IncreaseIndentText": {
+    "unicode": "f7a0",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "IncreaseIndentArrow": {
+    "unicode": "f7a1",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "DecreaseIndentText": {
+    "unicode": "f7a2",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "DecreaseIndentArrow": {
+    "unicode": "f7a3",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "IncreaseIndentTextMirrored": {
+    "unicode": "f7a4",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "IncreaseIndentArrowMirrored": {
+    "unicode": "f7a5",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "DecreaseIndentTextMirrored": {
+    "unicode": "f7a6",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "DecreaseIndentArrowMirrored": {
+    "unicode": "f7a7",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "CheckListText": {
+    "unicode": "f7a8",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "CheckListCheck": {
+    "unicode": "f7a9",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "CheckListTextMirrored": {
+    "unicode": "f7aa",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "CheckListCheckMirrored": {
+    "unicode": "f7ab",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "NumberSymbol": {
+    "unicode": "f7ac",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "Coupon": {
+    "unicode": "f7bc",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "VerifiedBrand": {
+    "unicode": "f7bd",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "ReleaseGate": {
+    "unicode": "f7be",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "ReleaseGateCheck": {
+    "unicode": "f7bf",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "ReleaseGateError": {
+    "unicode": "f7c0",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "M365InvoicingLogo": {
+    "unicode": "f7c1",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "RemoveFromShoppingList": {
+    "unicode": "f7d5",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "ShieldAlert": {
+    "unicode": "f7d7",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "FabricTextHighlightComposite": {
+    "unicode": "f7da",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "Dataflows": {
+    "unicode": "f7dd",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "GenericScanFilled": {
+    "unicode": "f7de",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "DiagnosticDataBarTooltip": {
+    "unicode": "f7df",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "SaveToMobile": {
+    "unicode": "f7e0",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "Orientation2": {
+    "unicode": "f7e1",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "ScreenCast": {
+    "unicode": "f7e2",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "ShowGrid": {
+    "unicode": "f7e3",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "SnapToGrid": {
+    "unicode": "f7e4",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "ContactList": {
+    "unicode": "f7e5",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "NewMail": {
+    "unicode": "f7ea",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "EyeShadow": {
+    "unicode": "f7eb",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "FabricFolderConfirm": {
+    "unicode": "f7ff",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "InformationBarriers": {
+    "unicode": "f803",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "CommentActive": {
+    "unicode": "f804",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "ColumnVerticalSectionEdit": {
+    "unicode": "f806",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "WavingHand": {
+    "unicode": "f807",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "ShakeDevice": {
+    "unicode": "f80a",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "SmartGlassRemote": {
+    "unicode": "f80b",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "Rotate90Clockwise": {
+    "unicode": "f80d",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "Rotate90CounterClockwise": {
+    "unicode": "f80e",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "CampaignTemplate": {
+    "unicode": "f811",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "ChartTemplate": {
+    "unicode": "f812",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "PageListFilter": {
+    "unicode": "f813",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "SecondaryNav": {
+    "unicode": "f814",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "ColumnVerticalSection": {
+    "unicode": "f81e",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "SkypeCircleSlash": {
+    "unicode": "f825",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "SkypeSlash": {
+    "unicode": "f826",
+    "fontFile": "fonts/fabric-icons-16-9cf93f3b.woff"
+  },
+  "CustomizeToolbar": {
+    "unicode": "f828",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "DuplicateRow": {
+    "unicode": "f82a",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "RemoveFromTrash": {
+    "unicode": "f82b",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "MailOptions": {
+    "unicode": "f82c",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "Childof": {
+    "unicode": "f82d",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "Footer": {
+    "unicode": "f82e",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "Header": {
+    "unicode": "f82f",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "BarChartVerticalFill": {
+    "unicode": "f830",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "StackedColumnChart2Fill": {
+    "unicode": "f831",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "PlainText": {
+    "unicode": "f834",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "AccessibiltyChecker": {
+    "unicode": "f835",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "DatabaseSync": {
+    "unicode": "f842",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "ReservationOrders": {
+    "unicode": "f845",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "TabOneColumn": {
+    "unicode": "f849",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "TabTwoColumn": {
+    "unicode": "f84a",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "TabThreeColumn": {
+    "unicode": "f84b",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "BulletedTreeList": {
+    "unicode": "f84c",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "MicrosoftTranslatorLogoGreen": {
+    "unicode": "f852",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "MicrosoftTranslatorLogoBlue": {
+    "unicode": "f853",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "InternalInvestigation": {
+    "unicode": "f854",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "AddReaction": {
+    "unicode": "f85d",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "ContactHeart": {
+    "unicode": "f862",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "VisuallyImpaired": {
+    "unicode": "f866",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "EventToDoLogo": {
+    "unicode": "f869",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "Variable2": {
+    "unicode": "f86d",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "ModelingView": {
+    "unicode": "f871",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "DisconnectVirtualMachine": {
+    "unicode": "f873",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "ReportLock": {
+    "unicode": "f875",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "Uneditable2": {
+    "unicode": "f876",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "Uneditable2Mirrored": {
+    "unicode": "f877",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "BarChartVerticalEdit": {
+    "unicode": "f89d",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "GlobalNavButtonActive": {
+    "unicode": "f89f",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "PollResults": {
+    "unicode": "f8a0",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "Rerun": {
+    "unicode": "f8a1",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "QandA": {
+    "unicode": "f8a2",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "QandAMirror": {
+    "unicode": "f8a3",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "BookAnswers": {
+    "unicode": "f8a4",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "AlertSettings": {
+    "unicode": "f8b6",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "TrimStart": {
+    "unicode": "f8bb",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "TrimEnd": {
+    "unicode": "f8bc",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "TableComputed": {
+    "unicode": "f8f5",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "DecreaseIndentLegacy": {
+    "unicode": "e290",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "IncreaseIndentLegacy": {
+    "unicode": "e291",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  },
+  "SizeLegacy": {
+    "unicode": "e2b2",
+    "fontFile": "fonts/fabric-icons-17-0c4ed701.woff"
+  }
+}
