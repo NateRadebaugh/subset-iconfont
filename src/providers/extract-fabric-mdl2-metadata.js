@@ -9,6 +9,29 @@ const path = require('path');
 const iconsMap = {};
 const baseDir = path.join(__dirname, '..', '..', 'node_modules', '@fluentui', 'font-icons-mdl2', 'lib');
 
+// Process main fabric-icons.js file first
+const mainFilePath = path.join(baseDir, 'fabric-icons.js');
+if (fs.existsSync(mainFilePath)) {
+  const content = fs.readFileSync(mainFilePath, 'utf8');
+  
+  // Extract font file name
+  const fontFileMatch = content.match(/fabric-icons-([a-f0-9]+)\.woff/);
+  const fontFile = fontFileMatch ? `fonts/fabric-icons-${fontFileMatch[1]}.woff` : 'fonts/fabric-icons.woff';
+  
+  // Extract icons using regex
+  const iconRegex = /([A-Za-z0-9_]+):\s*'\\u([A-F0-9]+)'/g;
+  let match;
+  
+  while ((match = iconRegex.exec(content)) !== null) {
+    const iconName = match[1];
+    const unicode = match[2].toLowerCase();
+    iconsMap[iconName] = {
+      unicode: unicode,
+      fontFile: fontFile
+    };
+  }
+}
+
 // Read all fabric-icons-*.js files
 for (let i = 0; i <= 17; i++) {
   const filePath = path.join(baseDir, `fabric-icons-${i}.js`);

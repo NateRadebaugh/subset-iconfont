@@ -1,0 +1,52 @@
+// variables
+// --------------------------
+$ms-Icon-css-prefix          : ms-Icon !default;
+$ms-Icon-style               : 400 !default;
+$ms-Icon-style-family        : 'FabricMDL2Icons' !default;
+
+$ms-Icon-display             : inline-block !default;
+
+$ms-Icon-font-display        : block !default;
+$ms-Icon-font-path           : "../webfonts" !default;
+
+$ms-Icon-primary-opacity     : 1 !default;
+$ms-Icon-secondary-opacity   : .4 !default;
+
+$ms-Icon-fw-width            : ms-Icon-divide(20em, 16);
+$ms-Icon-inverse             : #fff !default;
+$ms-Icon-border-color        : #eee !default;
+$ms-Icon-border-padding      : .2em .25em .15em !default;
+$ms-Icon-border-radius       : .1em !default;
+$ms-Icon-border-style        : solid !default;
+$ms-Icon-border-width        : .08em !default;
+$ms-Icon-size-scale-2xs      : 10 !default;
+$ms-Icon-size-scale-xs       : 12 !default;
+$ms-Icon-size-scale-sm       : 14 !default;
+$ms-Icon-size-scale-base     : 16 !default;
+$ms-Icon-size-scale-lg       : 20 !default;
+$ms-Icon-size-scale-xl       : 24 !default;
+$ms-Icon-size-scale-2xl      : 32 !default;
+
+$ms-Icon-sizes: (
+  "2xs"                 : $ms-Icon-size-scale-2xs,
+  "xs"                  : $ms-Icon-size-scale-xs,
+  "sm"                  : $ms-Icon-size-scale-sm,
+  "lg"                  : $ms-Icon-size-scale-lg,
+  "xl"                  : $ms-Icon-size-scale-xl,
+  "2xl"                 : $ms-Icon-size-scale-2xl
+) !default;
+$ms-Icon-li-width            : 2em !default;
+$ms-Icon-li-margin           : $ms-Icon-li-width * ms-Icon-divide(5, 4) !default;
+$ms-Icon-pull-margin         : .3em !default;
+$ms-Icon-stack-vertical-align: middle !default;
+$ms-Icon-stack-width         : ($ms-Icon-fw-width * 2) !default;
+$ms-Icon-stack-z-index       : auto !default;
+
+$ms-Icon-var-CheckMark: \e73e;$ms-Icon-var-ColumnOptions: \f317;$ms-Icon-var-EditStyle: \ef60;
+
+$ms-Icon-icons: (
+    "CheckMark": $ms-Icon-var-CheckMark,
+    "ColumnOptions": $ms-Icon-var-ColumnOptions,
+    "EditStyle": $ms-Icon-var-EditStyle
+);
+

@@ -1,0 +1,12 @@
+// pulled icons (extracted from _bordered-pulled.scss)
+// -------------------------
+
+.#{$ms-Icon-css-prefix}-pull-left {
+  float: left;
+  margin-right: var(--#{$ms-Icon-css-prefix}-pull-margin, #{$ms-Icon-pull-margin});
+}
+
+.#{$ms-Icon-css-prefix}-pull-right {
+  float: right;
+  margin-left: var(--#{$ms-Icon-css-prefix}-pull-margin, #{$ms-Icon-pull-margin});
+}

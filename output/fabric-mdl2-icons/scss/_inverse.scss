@@ -1,0 +1,6 @@
+// inverse icons colors (extracted from _stacked.scss)
+// -------------------------
+
+.#{$ms-Icon-css-prefix}-inverse {
+  color: var(--#{$ms-Icon-css-prefix}-inverse, #{$ms-Icon-inverse});
+}

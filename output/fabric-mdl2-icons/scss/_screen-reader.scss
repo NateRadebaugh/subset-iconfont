@@ -1,0 +1,14 @@
+// screen-reader utilities
+// -------------------------
+
+// only display content to screen readers
+.sr-only,
+.#{$ms-Icon-css-prefix}-sr-only {
+  @include ms-Icon-sr-only;
+}
+
+// use in conjunction with .sr-only to only display content when it's focused
+.sr-only-focusable,
+.#{$ms-Icon-css-prefix}-sr-only-focusable {
+  @include ms-Icon-sr-only-focusable;
+}

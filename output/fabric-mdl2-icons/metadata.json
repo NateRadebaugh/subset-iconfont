@@ -1,0 +1,50 @@
+{
+  "ColumnOptions": {
+    "unicode": "f317",
+    "svgDataObjects": [
+      {
+        "style": "normal",
+        "svgData": ""
+      }
+    ],
+    "styles": [
+      "normal"
+    ],
+    "metaFromPackage": {
+      "packageInfo": "@fluentui/font-icons-mdl2"
+    },
+    "originalName": "ColumnOptions"
+  },
+  "EditStyle": {
+    "unicode": "ef60",
+    "svgDataObjects": [
+      {
+        "style": "normal",
+        "svgData": ""
+      }
+    ],
+    "styles": [
+      "normal"
+    ],
+    "metaFromPackage": {
+      "packageInfo": "@fluentui/font-icons-mdl2"
+    },
+    "originalName": "EditStyle"
+  },
+  "CheckMark": {
+    "unicode": "e73e",
+    "svgDataObjects": [
+      {
+        "style": "normal",
+        "svgData": ""
+      }
+    ],
+    "styles": [
+      "normal"
+    ],
+    "metaFromPackage": {
+      "packageInfo": "@fluentui/font-icons-mdl2"
+    },
+    "originalName": "CheckMark"
+  }
+}

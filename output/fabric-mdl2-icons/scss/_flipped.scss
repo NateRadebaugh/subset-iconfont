@@ -1,0 +1,15 @@
+// flipping icons (extracted from _rotated-flipped.scss)
+// -------------------------
+
+.#{$ms-Icon-css-prefix}-flip-horizontal {
+  transform: scale(-1, 1);
+}
+
+.#{$ms-Icon-css-prefix}-flip-vertical {
+  transform: scale(1, -1);
+}
+
+.#{$ms-Icon-css-prefix}-flip-both,
+.#{$ms-Icon-css-prefix}-flip-horizontal.#{$ms-Icon-css-prefix}-flip-vertical {
+  transform: scale(-1, -1);
+}
