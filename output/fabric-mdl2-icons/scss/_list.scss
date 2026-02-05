@@ -1,0 +1,18 @@
+// icons in a list
+// -------------------------
+
+.#{$ms-Icon-css-prefix}-ul {
+  list-style-type: none;
+  margin-left: var(--#{$ms-Icon-css-prefix}-li-margin, #{$ms-Icon-li-margin});
+  padding-left: 0;
+
+  > li { position: relative; }
+}
+
+.#{$ms-Icon-css-prefix}-li {
+  left: calc(var(--#{$ms-Icon-css-prefix}-li-width, #{$ms-Icon-li-width}) * -1);
+  position: absolute;
+  text-align: center;
+  width: var(--#{$ms-Icon-css-prefix}-li-width, #{$ms-Icon-li-width});
+  line-height: inherit;
+}

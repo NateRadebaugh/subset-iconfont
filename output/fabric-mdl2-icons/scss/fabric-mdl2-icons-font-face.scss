@@ -1,0 +1,20 @@
+@import 'functions';
+@import 'variables';
+
+:root, :host {
+  --#{$ms-Icon-css-prefix}-font-normal: normal normal 1em/1 "#{ $ms-Icon-style-family }";
+}
+
+@font-face {
+  font-family: 'FabricMDL2Icons';
+  font-weight: 400;
+  font-display: $ms-Icon-font-display;
+  src: url('#{$ms-Icon-font-path}/fabric-mdl2-icons.ttf?v=2270a5fb3a2d25c9a2e22ea1baa377f6') format('truetype'),
+    url('#{$ms-Icon-font-path}/fabric-mdl2-icons.woff2?v=2270a5fb3a2d25c9a2e22ea1baa377f6') format('woff2');
+  
+}
+
+.#{$ms-Icon-css-prefix} {
+  font-family: 'FabricMDL2Icons';
+  font-weight: 400;
+}

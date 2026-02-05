@@ -1,0 +1,22 @@
+// base icon class definition
+// -------------------------
+
+.#{$ms-Icon-css-prefix} {
+  font-family: var(--#{$ms-Icon-css-prefix}-style-family, '#{$ms-Icon-style-family}');
+  font-weight: var(--#{$ms-Icon-css-prefix}-style, #{$ms-Icon-style});
+}
+
+.#{$ms-Icon-css-prefix},
+.#{$ms-Icon-css-prefix}-normal{
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: var(--#{$ms-Icon-css-prefix}-display, #{$ms-Icon-display});
+  font-style: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-rendering: auto;
+}
+
+%ms-Icon-icon {
+  @include ms-Icon-icon;
+}

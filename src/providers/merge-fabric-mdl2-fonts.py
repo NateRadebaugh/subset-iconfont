@@ -11,10 +11,9 @@ from fontTools import merge
 def merge_fabric_fonts(source_dir, output_file):
     """Merge multiple WOFF font files into a single TTF file."""
     
-    # Find all WOFF files (excluding the basic consolidated one)
+    # Find all WOFF files (including the main fabric-icons file)
     woff_files = sorted([
         str(f) for f in Path(source_dir).glob('fabric-icons-*.woff')
-        if not 'a13498cf' in f.name  # Skip the basic consolidated file
     ])
     
     if not woff_files:

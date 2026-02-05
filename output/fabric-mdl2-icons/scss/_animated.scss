@@ -1,0 +1,153 @@
+// animating icons
+// --------------------------
+
+.#{$ms-Icon-css-prefix}-beat {
+  animation-name: #{$ms-Icon-css-prefix}-beat;
+  animation-delay: var(--#{$ms-Icon-css-prefix}-animation-delay, 0);
+  animation-direction: var(--#{$ms-Icon-css-prefix}-animation-direction, normal);
+  animation-duration: var(--#{$ms-Icon-css-prefix}-animation-duration, 1s);
+  animation-iteration-count: var(--#{$ms-Icon-css-prefix}-animation-iteration-count, infinite);
+  animation-timing-function: var(--#{$ms-Icon-css-prefix}-animation-timing, ease-in-out);
+}
+
+.#{$ms-Icon-css-prefix}-bounce {
+  animation-name: #{$ms-Icon-css-prefix}-bounce;
+  animation-delay: var(--#{$ms-Icon-css-prefix}-animation-delay, 0);
+  animation-direction: var(--#{$ms-Icon-css-prefix}-animation-direction, normal);
+  animation-duration: var(--#{$ms-Icon-css-prefix}-animation-duration, 1s);
+  animation-iteration-count: var(--#{$ms-Icon-css-prefix}-animation-iteration-count, infinite);
+  animation-timing-function: var(--#{$ms-Icon-css-prefix}-animation-timing, cubic-bezier(0.280, 0.840, 0.420, 1));
+}
+
+.#{$ms-Icon-css-prefix}-fade {
+  animation-name: #{$ms-Icon-css-prefix}-fade;
+  animation-delay: var(--#{$ms-Icon-css-prefix}-animation-delay, 0);
+  animation-direction: var(--#{$ms-Icon-css-prefix}-animation-direction, normal);
+  animation-duration: var(--#{$ms-Icon-css-prefix}-animation-duration, 1s);
+  animation-iteration-count: var(--#{$ms-Icon-css-prefix}-animation-iteration-count, infinite);
+  animation-timing-function: var(--#{$ms-Icon-css-prefix}-animation-timing, cubic-bezier(.4,0,.6,1));
+}
+
+.#{$ms-Icon-css-prefix}-beat-fade {
+  animation-name: #{$ms-Icon-css-prefix}-beat-fade;
+  animation-delay: var(--#{$ms-Icon-css-prefix}-animation-delay, 0);
+  animation-direction: var(--#{$ms-Icon-css-prefix}-animation-direction, normal);
+  animation-duration: var(--#{$ms-Icon-css-prefix}-animation-duration, 1s);
+  animation-iteration-count: var(--#{$ms-Icon-css-prefix}-animation-iteration-count, infinite);
+  animation-timing-function: var(--#{$ms-Icon-css-prefix}-animation-timing, cubic-bezier(.4,0,.6,1));
+}
+
+.#{$ms-Icon-css-prefix}-flip {
+  animation-name: #{$ms-Icon-css-prefix}-flip;
+  animation-delay: var(--#{$ms-Icon-css-prefix}-animation-delay, 0);
+  animation-direction: var(--#{$ms-Icon-css-prefix}-animation-direction, normal);
+  animation-duration: var(--#{$ms-Icon-css-prefix}-animation-duration, 1s);
+  animation-iteration-count: var(--#{$ms-Icon-css-prefix}-animation-iteration-count, infinite);
+  animation-timing-function: var(--#{$ms-Icon-css-prefix}-animation-timing, ease-in-out);
+}
+
+.#{$ms-Icon-css-prefix}-shake {
+  animation-name: #{$ms-Icon-css-prefix}-shake;
+  animation-delay: var(--#{$ms-Icon-css-prefix}-animation-delay, 0);
+  animation-direction: var(--#{$ms-Icon-css-prefix}-animation-direction, normal);
+  animation-duration: var(--#{$ms-Icon-css-prefix}-animation-duration, 1s);
+  animation-iteration-count: var(--#{$ms-Icon-css-prefix}-animation-iteration-count, infinite);
+  animation-timing-function: var(--#{$ms-Icon-css-prefix}-animation-timing, linear);
+}
+
+.#{$ms-Icon-css-prefix}-spin {
+  animation-name: #{$ms-Icon-css-prefix}-spin;
+  animation-delay: var(--#{$ms-Icon-css-prefix}-animation-delay, 0);
+  animation-direction: var(--#{$ms-Icon-css-prefix}-animation-direction, normal);
+  animation-duration: var(--#{$ms-Icon-css-prefix}-animation-duration, 2s);
+  animation-iteration-count: var(--#{$ms-Icon-css-prefix}-animation-iteration-count, infinite);
+  animation-timing-function: var(--#{$ms-Icon-css-prefix}-animation-timing, linear);
+}
+
+.#{$ms-Icon-css-prefix}-spin-reverse {
+  --#{$ms-Icon-css-prefix}-animation-direction: reverse;
+}
+
+.#{$ms-Icon-css-prefix}-pulse,
+.#{$ms-Icon-css-prefix}-spin-pulse {
+  animation-name: #{$ms-Icon-css-prefix}-spin;
+  animation-direction: var(--#{$ms-Icon-css-prefix}-animation-direction, normal);
+  animation-duration: var(--#{$ms-Icon-css-prefix}-animation-duration, 1s);
+  animation-iteration-count: var(--#{$ms-Icon-css-prefix}-animation-iteration-count, infinite);
+  animation-timing-function: var(--#{$ms-Icon-css-prefix}-animation-timing, steps(8));
+}
+
+// if agent or operating system prefers reduced motion, disable animations
+// see: https://www.smashingmagazine.com/2020/09/design-reduced-motion-sensitivities/
+// see: https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion
+@media (prefers-reduced-motion: reduce) {
+  .#{$ms-Icon-css-prefix}-beat,
+  .#{$ms-Icon-css-prefix}-bounce,
+  .#{$ms-Icon-css-prefix}-fade,
+  .#{$ms-Icon-css-prefix}-beat-fade,
+  .#{$ms-Icon-css-prefix}-flip,
+  .#{$ms-Icon-css-prefix}-pulse,
+  .#{$ms-Icon-css-prefix}-shake,
+  .#{$ms-Icon-css-prefix}-spin,
+  .#{$ms-Icon-css-prefix}-spin-pulse {
+    animation-delay: -1ms;
+    animation-duration: 1ms;
+    animation-iteration-count: 1;
+    transition-delay: 0s;
+    transition-duration: 0s;
+  }
+}
+
+@keyframes #{$ms-Icon-css-prefix}-beat {
+  0%, 90% { transform: scale(1); }
+  45% { transform: scale(var(--#{$ms-Icon-css-prefix}-beat-scale, 1.25)); }
+}
+
+@keyframes #{$ms-Icon-css-prefix}-bounce {
+  0%   { transform: scale(1,1) translateY(0); }
+  10%  { transform: scale(var(--#{$ms-Icon-css-prefix}-bounce-start-scale-x, 1.1),var(--#{$ms-Icon-css-prefix}-bounce-start-scale-y, 0.9)) translateY(0); }
+  30%  { transform: scale(var(--#{$ms-Icon-css-prefix}-bounce-jump-scale-x, 0.9),var(--#{$ms-Icon-css-prefix}-bounce-jump-scale-y, 1.1)) translateY(var(--#{$ms-Icon-css-prefix}-bounce-height, -0.5em)); }
+  50%  { transform: scale(var(--#{$ms-Icon-css-prefix}-bounce-land-scale-x, 1.05),var(--#{$ms-Icon-css-prefix}-bounce-land-scale-y, 0.95)) translateY(0); }
+  57%  { transform: scale(1,1) translateY(var(--#{$ms-Icon-css-prefix}-bounce-rebound, -0.125em)); }
+  64%  { transform: scale(1,1) translateY(0); }
+  100% { transform: scale(1,1) translateY(0); }
+}
+
+@keyframes #{$ms-Icon-css-prefix}-fade {
+  50% { opacity: var(--#{$ms-Icon-css-prefix}-fade-opacity, 0.4); }
+}
+
+@keyframes #{$ms-Icon-css-prefix}-beat-fade {
+  0%, 100% {
+    opacity: var(--#{$ms-Icon-css-prefix}-beat-fade-opacity, 0.4);
+    transform: scale(1);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(var(--#{$ms-Icon-css-prefix}-beat-fade-scale, 1.125));
+  }
+}
+
+@keyframes #{$ms-Icon-css-prefix}-flip {
+  50% {
+    transform: rotate3d(var(--#{$ms-Icon-css-prefix}-flip-x, 0), var(--#{$ms-Icon-css-prefix}-flip-y, 1), var(--#{$ms-Icon-css-prefix}-flip-z, 0), var(--#{$ms-Icon-css-prefix}-flip-angle, -180deg));
+  }
+}
+
+@keyframes #{$ms-Icon-css-prefix}-shake {
+  0% { transform: rotate(-15deg); }
+  4% { transform: rotate(15deg); }
+  8%, 24% { transform: rotate(-18deg); }
+  12%, 28% { transform: rotate(18deg); }
+  16% { transform: rotate(-22deg); }
+  20% { transform: rotate(22deg); }
+  32% { transform: rotate(-12deg); }
+  36% { transform: rotate(12deg); }
+  40%, 100% { transform: rotate(0deg); }
+}
+
+@keyframes #{$ms-Icon-css-prefix}-spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+

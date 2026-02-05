@@ -1,0 +1,10 @@
+// bordered icons (extracted from _bordered-pulled.scss)
+// -------------------------
+
+.#{$ms-Icon-css-prefix}-border {
+  border-color: var(--#{$ms-Icon-css-prefix}-border-color, #{$ms-Icon-border-color});
+  border-radius: var(--#{$ms-Icon-css-prefix}-border-radius, #{$ms-Icon-border-radius});
+  border-style: var(--#{$ms-Icon-css-prefix}-border-style, #{$ms-Icon-border-style});
+  border-width: var(--#{$ms-Icon-css-prefix}-border-width, #{$ms-Icon-border-width});
+  padding: var(--#{$ms-Icon-css-prefix}-border-padding, #{$ms-Icon-border-padding});
+}

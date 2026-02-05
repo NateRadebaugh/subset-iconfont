@@ -1,4 +1,232 @@
 {
+  "GlobalNavButton": {
+    "unicode": "e700",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "ChevronDown": {
+    "unicode": "e70d",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "ChevronUp": {
+    "unicode": "e70e",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "Edit": {
+    "unicode": "e70f",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "Add": {
+    "unicode": "e710",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "Cancel": {
+    "unicode": "e711",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "More": {
+    "unicode": "e712",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "Settings": {
+    "unicode": "e713",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "Mail": {
+    "unicode": "e715",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "Filter": {
+    "unicode": "e71c",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "Search": {
+    "unicode": "e721",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "Share": {
+    "unicode": "e72d",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "BlockedSite": {
+    "unicode": "e72f",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "FavoriteStar": {
+    "unicode": "e734",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "FavoriteStarFill": {
+    "unicode": "e735",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "CheckMark": {
+    "unicode": "e73e",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "Delete": {
+    "unicode": "e74d",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "ChevronLeft": {
+    "unicode": "e76b",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "ChevronRight": {
+    "unicode": "e76c",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "Calendar": {
+    "unicode": "e787",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "Megaphone": {
+    "unicode": "e789",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "Undo": {
+    "unicode": "e7a7",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "Flag": {
+    "unicode": "e7c1",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "Page": {
+    "unicode": "e7c3",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "Pinned": {
+    "unicode": "e840",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "View": {
+    "unicode": "e890",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "Clear": {
+    "unicode": "e894",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "Download": {
+    "unicode": "e896",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "Upload": {
+    "unicode": "e898",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "Folder": {
+    "unicode": "e8b7",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "Sort": {
+    "unicode": "e8cb",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "AlignRight": {
+    "unicode": "e8e2",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "AlignLeft": {
+    "unicode": "e8e4",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "Tag": {
+    "unicode": "e8ec",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "AddFriend": {
+    "unicode": "e8fa",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "Info": {
+    "unicode": "e946",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "SortLines": {
+    "unicode": "e9d0",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "List": {
+    "unicode": "ea37",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "CircleRing": {
+    "unicode": "ea3a",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "Heart": {
+    "unicode": "eb51",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "HeartFill": {
+    "unicode": "eb52",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "Tiles": {
+    "unicode": "eca5",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "Embed": {
+    "unicode": "ecce",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "Glimmer": {
+    "unicode": "ecf4",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "Ascending": {
+    "unicode": "edc0",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "Descending": {
+    "unicode": "edc1",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "SortUp": {
+    "unicode": "ee68",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "SortDown": {
+    "unicode": "ee69",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "SyncToPC": {
+    "unicode": "ee6e",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "LargeGrid": {
+    "unicode": "eecb",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "SkypeCheck": {
+    "unicode": "ef80",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "SkypeClock": {
+    "unicode": "ef81",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "SkypeMinus": {
+    "unicode": "ef82",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "ClearFilter": {
+    "unicode": "ef8f",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "Flow": {
+    "unicode": "ef90",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "StatusCircleCheckmark": {
+    "unicode": "f13e",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
+  "MoreVertical": {
+    "unicode": "f2bc",
+    "fontFile": "fonts/fabric-icons-a13498cf.woff"
+  },
   "PageLink": {
     "unicode": "e302",
     "fontFile": "fonts/fabric-icons-0-467ee27f.woff"

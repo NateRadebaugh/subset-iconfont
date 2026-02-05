@@ -1,0 +1,11 @@
+{
+	"version": 3,
+	"file": "fabric-mdl2-icons-font-face.min.css",
+	"sources": [
+		"../scss/fabric-mdl2-icons-font-face.scss",
+		"../scss/_functions.scss",
+		"../scss/_variables.scss"
+	],
+	"names": [],
+	"mappings": "AAGA,AAAA,KAAK,CAAE,KAAK,AAAC,CACX,qBAAoC,CAAc,sCAAC,CACpD,AAED,UAAU,CACR,WAAW,CAAE,iBAAiB,CAC9B,WAAW,CAAE,GAAG,CAChB,YAAY,CEFiB,KAAK,CFGlC,GAAG,CAAE,2EAAqF,CAAC,kBAAkB,CAC3G,6EAAuF,CAAC,eAAe,CAI3G,AAAA,QAAQ,AAAgB,CACtB,WAAW,CAAE,iBAAiB,CAC9B,WAAW,CAAE,GAAG,CACjB"
+}

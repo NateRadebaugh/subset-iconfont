@@ -1,0 +1,18 @@
+// rotating icons (extracted from _rotated-flipped.scss)
+// -------------------------
+
+.#{$ms-Icon-css-prefix}-rotate-90 {
+  transform: rotate(90deg);
+}
+
+.#{$ms-Icon-css-prefix}-rotate-180 {
+  transform: rotate(180deg);
+}
+
+.#{$ms-Icon-css-prefix}-rotate-270 {
+  transform: rotate(270deg);
+}
+
+.#{$ms-Icon-css-prefix}-rotate-by {
+  transform: rotate(var(--#{$ms-Icon-css-prefix}-rotate-angle, none));
+}

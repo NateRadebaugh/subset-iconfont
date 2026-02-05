@@ -1,0 +1,28 @@
+// stacking icons (extracted from _stacked.scss)
+// -------------------------
+
+.#{$ms-Icon-css-prefix}-stack {
+  display: inline-block;
+  height: 2em;
+  line-height: 2em;
+  position: relative;
+  vertical-align: $ms-Icon-stack-vertical-align;
+  width: $ms-Icon-stack-width;
+}
+
+.#{$ms-Icon-css-prefix}-stack-1x,
+.#{$ms-Icon-css-prefix}-stack-2x {
+  left: 0;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  z-index: var(--#{$ms-Icon-css-prefix}-stack-z-index, #{$ms-Icon-stack-z-index});
+}
+
+.#{$ms-Icon-css-prefix}-stack-1x {
+  line-height: inherit;
+}
+
+.#{$ms-Icon-css-prefix}-stack-2x {
+  font-size: 2em;
+}
