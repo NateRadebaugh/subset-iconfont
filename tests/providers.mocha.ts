@@ -7,7 +7,7 @@ const fs = require('fs');
 const winston = require('winston');
 const assert = require('assert');
 
-import { MdiProvider, FaFreeProvider, BiProvider, MiProvider, Fa4Provider } from '../src';
+import { MdiProvider, FaFreeProvider, BiProvider, MiProvider, Fa4Provider, FabricMdl2Provider } from '../src';
 import {
   MDI_DEFAULT_FONT_FILE_NAME,
   DEFAULT_OUTPUT_FORMATS,
@@ -16,7 +16,8 @@ import {
   COMBINED_CSS_NAME,
   BOOTSTRAP_ICONS_FONT_FILE_NAME,
   MI_DEFAULT_FONT_FILE_NAME,
-  FONT_AWESOME4_DEFAULT_FONT_FILE_NAME
+  FONT_AWESOME4_DEFAULT_FONT_FILE_NAME,
+  FABRIC_MDL2_DEFAULT_FONT_FILE_NAME,
 } from '../src/providers/constants';
 
 import {
@@ -661,5 +662,49 @@ describe(`cssChoices subset test`, function () {
       assertCssContains(result, ['.fa-plus', '.fa-sr-only']);
     };
     await runSubset(['screen-reader'], cb);
+  });
+});
+
+describe('FabricMdl2Provider (FluentUI) should work', () => {
+  it('should be able to subset icons', (done) => {
+    const { FabricMdl2Provider } = require('../src');
+    const { FABRIC_MDL2_DEFAULT_FONT_FILE_NAME } = require('../src/providers/constants');
+    
+    const provider = new FabricMdl2Provider(['ColumnOptions', 'EditStyle'], {
+      loggerOptions: { level: 'warn' },
+    });
+    
+    generateProviderSubsetFont(
+      FabricMdl2Provider,
+      {
+        subset: ['ColumnOptions', 'EditStyle'],
+      },
+      done,
+      {
+        providerSubPath: FABRIC_MDL2_DEFAULT_FONT_FILE_NAME,
+        providerCssFiles: [
+          {
+            names: {
+              exist: [
+                COMBINED_CSS_NAME,
+                FABRIC_MDL2_DEFAULT_FONT_FILE_NAME,
+              ],
+            },
+            extensions: { exist: DEFAULT_CSS_OUTPUT_EXTENSIONS },
+          },
+        ],
+        providerFontFiles: [
+          {
+            names: {
+              exist: [FABRIC_MDL2_DEFAULT_FONT_FILE_NAME],
+            },
+            extensions: { exist: DEFAULT_OUTPUT_FORMATS },
+          },
+        ],
+        metaDataExist: true,
+        licenseFilesExist: true,
+        webPageFileExist: true,
+      }
+    );
   });
 });
